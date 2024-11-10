@@ -1,0 +1,311 @@
+The large version of the periodic table set out below does not fit into some computer screens; however, with a small font size and/or in landscape mode, it may be possible to print this periodic table on one or two normal-size sheets of paper. The key below explains the colour-coding and layout of each entry.
+
+ Group →
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+
+
+↓  Period
+IA
+IIA
+IIIB
+IVB
+VB
+VIB
+VIIB
+VIIIB
+VIIIB
+VIIIB
+IB
+IIB
+IIIA
+IVA
+VA
+VIA
+VIIA
+VIIIA
+
+
+ 1
+hydrogen1H1.00794(7)
+Name of element Atomic number Chemical symbol
+ Atomic mass †
+
+
+helium2He4.002602(2)
+
+
+ 2
+lithium3Li6.941(2)
+beryllium4Be9.012182(3)
+
+
+boron5B10.811(7)
+carbon6C12.0107(8)
+nitrogen7N14.00674(7)
+oxygen8O15.9994(3)
+fluorine9F18.9984032(5)
+neon10Ne20.1797(6)
+
+
+ 3
+sodium11Na22.98976928(2)
+magnesium12Mg24.3050(6)
+
+
+aluminium13Al26.9815386(8)
+silicon14Si28.0855(3)
+phosphorus15P30.973762(2)
+sulfur16S32.066(6)
+chlorine17Cl35.4527(9)
+argon18Ar39.948(1)
+
+
+ 4
+potassium19K39.0983(1)
+calcium20Ca40.078(4)
+scandium21Sc44.955912(6)
+titanium22Ti47.867(1)
+vanadium23V50.9415(1)
+chromium24Cr51.9961(6)
+manganese25Mn54.938045(5)
+iron26Fe55.845(2)
+cobalt27Co58.933195(5)
+nickel28Ni58.6934(2)
+copper29Cu63.546(3)
+zinc30Zn65.39(2)
+gallium31Ga69.723(1)
+germanium32Ge72.61(2)
+arsenic33As74.92160(2)
+selenium34Se78.96(3)
+bromine35Br79.904(1)
+krypton36Kr83.80(1)
+
+
+ 5
+rubidium37Rb85.4678(3)
+strontium38Sr87.62(1)
+yttrium39Y88.90585(2)
+zirconium40Zr91.224(2)
+niobium41Nb92.90638(2)
+molybdenum42Mo95.94(1)
+technetium43Tc[97.9072]
+ruthenium44Ru101.07(2)
+rhodium45Rh102.90550(2)
+palladium46Pd106.42(1)
+silver47Ag107.8682(2)
+cadmium48Cd112.411(8)
+indium49In114.818(3)
+tin50Sn118.710(7)
+antimony51Sb121.760(1)
+tellurium52Te127.60(3)
+iodine53I126.90447(3)
+xenon54Xe131.29(2)
+
+
+ 6
+caesium55Cs132.9054519(2)
+barium56Ba137.327(7)
+57-71 * 
+hafnium72Hf178.49(2)
+tantalum73Ta180.94788(2)
+tungsten74W183.84(1)
+rhenium75Re186.207(1)
+osmium76Os190.23(3)
+iridium77Ir192.217(3)
+platinum78Pt195.084(9)
+gold79Au196.966569(4)
+mercury80Hg200.59(2)
+thallium81Tl204.3833(2)
+lead82Pb207.2(1)
+bismuth83Bi208.98040(1)
+polonium84Po[208.9824]
+astatine85At[209.9871]
+radon86Rn[222.0176]
+
+
+ 7
+francium87Fr[223.0197]
+radium88Ra[226.0254]
+89-103 ** 
+rutherfordium104Rf[263.1125]
+dubnium105Db[262.1144]
+seaborgium106Sg[266.1219]
+bohrium107Bh[264.1247]
+hassium108Hs[269.1341]
+meitnerium109Mt[268.1388]
+darmstadtium110Ds[272.1463]
+roentgenium111Rg[272.1535]
+ununbium112Uub[277]
+ununtrium113Uut[284]
+ununquadium114Uuq[289]
+ununpentium115Uup[288]
+ununhexium116Uuh[292]
+ununseptium117 Uus[292]‡
+ununoctium118Uuo[294]
+
+
+
+
+
+
+
+*  Lanthanides  
+lanthanum57La138.90547(7)
+cerium58Ce140.116(1)
+praseodymium59Pr140.90765(2)
+neodymium60Nd144.242(3)
+promethium61Pm[144.9127]
+samarium62Sm150.36(2)
+europium63Eu151.964(1)
+gadolinium64Gd157.25(3)
+terbium65Tb158.92535(2)
+dysprosium66Dy162.500(1)
+holmium67Ho164.93032(2)
+erbium68Er167.259(3)
+thulium69Tm168.93421(2)
+ytterbium70Yb173.04(3)
+lutetium71Lu174.967(1)
+
+
+**  Actinides  
+actinium89Ac[227.0277]
+thorium90Th232.03806(2)
+protactinium91Pa231.03588(2)
+uranium92U238.02891(3)
+neptunium93Np[237.0482]
+plutonium94Pu[244.0642]
+americium95Am[243.0614]
+curium96Cm[247.0703]
+berkelium97Bk[247.0703]
+californium98Cf[251.0796]
+einsteinium99Es[252.0830]
+fermium100Fm[257.0951]
+mendelevium101Md[258.0984]
+nobelium102No[259.1011]
+lawrencium103Lr[262.110]
+
+
+ 
+
+
+
+ Chemical series of the periodic table
+
+ Alkali metals
+ Alkaline earth metals
+ Lanthanides
+ Actinides
+ Transition metals
+
+
+ Poor metals
+ Metalloids
+ Nonmetals
+ Halogens
+ Noble gases
+
+
+
+
+
+
+
+State at  standard temperature and pressure (0°C and 1 atm)
+
+Gases
+Liquids
+Solids
+
+
+
+
+
+Natural occurrence
+
+Undiscovered
+Synthetic
+From decay
+Primordial
+
+
+
+
+
+† A value in brackets, such as [259.1011], is the  atomic weight of the most stable  isotope unless it is an integer, in which case it is the  mass number of the most stable isotope. In all other cases, the value is the  mean atomic weight of the most stable isotopic composition, according to Atomic Weights of the Elements 2001, and includes its uncertainty in  parenthesis. For example, the value of 1.00794(7) for hydrogen means that the most stable isotopic composition of hydrogen has an atomic weight of 1.00794  atomic mass units (amu) with one  standard deviation uncertainty of 0.00007 amu. ‡ These atomic masses are only estimates, as these elements have not yet been discovered. Retrieved from " http://en.wikipedia.org/wiki/Periodic_table_%28large_version%29"
+
+
+
+
+ Atomic mass †
+ 
+
+
+
+ Chemical series of the periodic table
+
+ Alkali metals
+ Alkaline earth metals
+ Lanthanides
+ Actinides
+ Transition metals
+
+
+ Poor metals
+ Metalloids
+ Nonmetals
+ Halogens
+ Noble gases
+
+
+
+
+
+
+
+State at  standard temperature and pressure (0°C and 1 atm)
+
+Gases
+Liquids
+Solids
+
+
+
+
+
+Natural occurrence
+
+Undiscovered
+Synthetic
+From decay
+Primordial
+
+
+
+
+
+† A value in brackets, such as [259.1011], is the  atomic weight of the most stable  isotope unless it is an integer, in which case it is the  mass number of the most stable isotope. In all other cases, the value is the  mean atomic weight of the most stable isotopic composition, according to Atomic Weights of the Elements 2001, and includes its uncertainty in  parenthesis. For example, the value of 1.00794(7) for hydrogen means that the most stable isotopic composition of hydrogen has an atomic weight of 1.00794  atomic mass units (amu) with one  standard deviation uncertainty of 0.00007 amu. ‡ These atomic masses are only estimates, as these elements have not yet been discovered. Retrieved from " http://en.wikipedia.org/wiki/Periodic_table_%28large_version%29"
+
+
+
+
+† A value in brackets, such as [259.1011], is the  atomic weight of the most stable  isotope unless it is an integer, in which case it is the  mass number of the most stable isotope. In all other cases, the value is the  mean atomic weight of the most stable isotopic composition, according to Atomic Weights of the Elements 2001, and includes its uncertainty in  parenthesis. For example, the value of 1.00794(7) for hydrogen means that the most stable isotopic composition of hydrogen has an atomic weight of 1.00794  atomic mass units (amu) with one  standard deviation uncertainty of 0.00007 amu. ‡ These atomic masses are only estimates, as these elements have not yet been discovered. Retrieved from " http://en.wikipedia.org/wiki/Periodic_table_%28large_version%29"
+
+
+

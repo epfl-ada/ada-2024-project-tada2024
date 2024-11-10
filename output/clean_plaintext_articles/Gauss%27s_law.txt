@@ -1,0 +1,541 @@
+In physics and mathematical analysis, Gauss's law, developed by Carl Friedrich Gauss, closely related to  Gauss's theorem, gives the relation between the electric or gravitational  flux flowing out of a closed surface and, respectively, the electric charge or mass enclosed in the surface. Gauss's law can be used in any context where the  inverse-square law holds, where  electrostatics and  Newtonian gravitation are but two examples. It is one of the four equations that underpins  electromagnetic theory.
+Integral form
+In its integral form, the law states:
+
+where Φ is the electric flux,  is the electric field,  is a differential area on the closed surface S with an outward facing  surface normal defining its direction, QA is the charge enclosed by the surface, ρ is the charge density at a point in V,  is the  permittivity of free space and  is the integral over the surface S enclosing volume V.For information and strategy on the application of Gauss's law, see  Gaussian surfaces.Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Integral form
+In its integral form, the law states:
+
+where Φ is the electric flux,  is the electric field,  is a differential area on the closed surface S with an outward facing  surface normal defining its direction, QA is the charge enclosed by the surface, ρ is the charge density at a point in V,  is the  permittivity of free space and  is the integral over the surface S enclosing volume V.For information and strategy on the application of Gauss's law, see  Gaussian surfaces.Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+In its integral form, the law states:
+
+where Φ is the electric flux,  is the electric field,  is a differential area on the closed surface S with an outward facing  surface normal defining its direction, QA is the charge enclosed by the surface, ρ is the charge density at a point in V,  is the  permittivity of free space and  is the integral over the surface S enclosing volume V.For information and strategy on the application of Gauss's law, see  Gaussian surfaces.Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+where Φ is the electric flux,  is the electric field,  is a differential area on the closed surface S with an outward facing  surface normal defining its direction, QA is the charge enclosed by the surface, ρ is the charge density at a point in V,  is the  permittivity of free space and  is the integral over the surface S enclosing volume V.For information and strategy on the application of Gauss's law, see  Gaussian surfaces.Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+For information and strategy on the application of Gauss's law, see  Gaussian surfaces.Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Differential form
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+In  differential form, the equation becomes:
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+where  is the  del operator, representing  divergence, D is the  electric displacement field (in units of C/m²), and ρfree is the free electric charge density (in units of C/m³), not including the  dipole charges  bound in a material. The differential form derives in part from Gauss's  divergence theorem.
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+
+ And for linear materials, the equation becomes:
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+where  is the electric  permittivity.Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Coulomb's law
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+In the special case of a spherical surface with a central charge, the electric field is perpendicular to the surface, with the same magnitude at all points of it, giving the simpler expression:
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+where E is the electric field strength at radius r, Q is the enclosed charge, and ε0 is the permitivity of free space. Thus the familiar  inverse-square law dependence of the electric field in Coulomb's law follows from Gauss's law.Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Gauss's law can be used to demonstrate that there is no electric field inside a  Faraday cage with no electric charges. Gauss's law is the electrostatic equivalent of  Ampère's law, which deals with magnetism. Both equations were later integrated into Maxwell's equations.It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+It was formulated by Carl Friedrich Gauss in  1835, but was not published until  1867. Because of the mathematical similarity, Gauss's law has application for other physical quantities governed by an  inverse-square law such as gravitation or the  intensity of  radiation. See also  divergence theorem.Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Gravitational analogue
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Since both gravity and electromagnetism have strength that propagates relative to the squared distance between two objects, we can relate the two using Gauss's Law by examining their respective vector fields  and , where
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+and
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+where G is the  gravitational constant, m is the mass of the  point source, r is the radius (distance) between the point source and another object,  is the  permittivity of free space, and q is the charge of the electric point source.In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+In the same way that we evaluate the surface integral for electromagnetism to get the result , we can choose a proper  Gaussian surface to find an answer for the gravitational flux. For a point mass centered at the coordinate system origin, the most logical choice for our Gaussian surface is a sphere of radius r centered at the origin.We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+We start with the integral form of Gauss's law:
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+An infinitesimal area element is just the area of the infinitesimal solid angle, which is defined as
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+Our Gaussian Surface is wisely chosen since the vector normal to the surface is radial from the origin. With
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+we see the inner product of the two radial vectors is unity and that both the magnitude of our field, , and the square of the distance between the surface and the point, r2, remain constant over every element of the surface. This gives us the integral
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+The remaining surface integral is just the surface area of our sphere (4πr2). If we combine this with our gravitational field equation from above, we have an expression for the gravitational flux of a point mass.
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+It is interesting to note that the gravitational flux, like its electromagnetic counterpart, does not depend on the radius of the sphere. Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+
+
+ Retrieved from " http://en.wikipedia.org/wiki/Gauss%27s_law"
+
+
+

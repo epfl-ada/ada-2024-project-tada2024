@@ -1,0 +1,183 @@
+Phosphorus tribromide is a colourless liquid with the formula PBr3. It fumes in air due to  hydrolysis and has a penetrating odour. It is widely used in the laboratory for the conversion of alcohols to  alkyl bromides.
+ Chemical properties
+Phosphorus tribromide, like PCl3 and  PF3, has both properties of a  Lewis base and a  Lewis acid. For example, with a Lewis acid such as  boron tribromide it forms stable 1:1 adducts such as Br3B-PBr3. At the same time PBr3 can react as an  electrophile or Lewis acid in many of its reactions, for example with amines.The most important reaction of PBr3 is with  alcohols, where it replaces an  OH group with a bromine atom to produce an  alkyl bromide. Note that all three bromines can be transferred.
+PBr3 + 3 ROH → 3  RBr +  HP(O)(OH)2
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an  SN2 substitution at the alcohol carbon.Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+
+ Chemical properties
+Phosphorus tribromide, like PCl3 and  PF3, has both properties of a  Lewis base and a  Lewis acid. For example, with a Lewis acid such as  boron tribromide it forms stable 1:1 adducts such as Br3B-PBr3. At the same time PBr3 can react as an  electrophile or Lewis acid in many of its reactions, for example with amines.The most important reaction of PBr3 is with  alcohols, where it replaces an  OH group with a bromine atom to produce an  alkyl bromide. Note that all three bromines can be transferred.
+PBr3 + 3 ROH → 3  RBr +  HP(O)(OH)2
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an  SN2 substitution at the alcohol carbon.Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+Phosphorus tribromide, like PCl3 and  PF3, has both properties of a  Lewis base and a  Lewis acid. For example, with a Lewis acid such as  boron tribromide it forms stable 1:1 adducts such as Br3B-PBr3. At the same time PBr3 can react as an  electrophile or Lewis acid in many of its reactions, for example with amines.The most important reaction of PBr3 is with  alcohols, where it replaces an  OH group with a bromine atom to produce an  alkyl bromide. Note that all three bromines can be transferred.
+PBr3 + 3 ROH → 3  RBr +  HP(O)(OH)2
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an  SN2 substitution at the alcohol carbon.Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+The most important reaction of PBr3 is with  alcohols, where it replaces an  OH group with a bromine atom to produce an  alkyl bromide. Note that all three bromines can be transferred.
+PBr3 + 3 ROH → 3  RBr +  HP(O)(OH)2
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an  SN2 substitution at the alcohol carbon.Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+The mechanism (shown for a primary alcohol) involves initial activation of the alcohol oxygen by the electrophilic phosphorus (to form a good leaving group), followed by an  SN2 substitution at the alcohol carbon.Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+Because of the SN2 substitution step, the reaction generally works well for  primary and secondary alcohols, but fails for tertiary alcohols. If the reacting carbon centre is  chiral, the reaction usually occurs with  inversion of configuration at the alcohol carbon, as is usual with an SN2 reaction.In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+In a similar reaction, PBr3 also converts  carboxylic acids to  acyl bromides.
+PBr3 + 3  RCOOH → 3  RCOBr +  HP(O)(OH)2
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+PBr3 is a reasonably strong  reducing agent, and the oxidation of PBr3 with oxygen gas is more vigorous than seen with PCl3. It gives an explosive reaction that forms  P2O5 and Br2. Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+ Preparation
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+PBr3 is by treating phosphorus with bromine, using PBr3 itself as the solvent (white phosphorus is soluble in PBr3). An excess of phosphorus is used in order to prevent formation of PBr5.
+P4 + 6 Br2 → 4 PBr3
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+ Uses
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+The main use for phosphorus tribromide is for conversion of primary or secondary alcohols to  alkyl bromides, as described above. PBr3 usually gives higher yields than  hydrobromic acid, and it avoids problems of  carbocation rearrangement- for example even  neopentyl bromide can be made from the alcohol in 60% yield.Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+Another use for PBr3 is as a catalyst for the α-bromination of  carboxylic acids. Although acyl bromides are rarely made in comparison with  acyl chlorides, they are used as intermediates in  Hell-Volhard-Zelinsky halogenation . Initially PBr3 reacts with the carboxylic acid to form the acyl bromide, which is more reactive towards bromination. The overall process can be represented asOn a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+On a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+On a commercial scale, phosphorus tribromide is used in the manufacture of  pharmaceuticals such as  alprazolam,  methohexital and  fenoprofen. It is also a potent fire suppression agent marketed under the name  PhostrEx. Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+ Precautions
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+PBr3 evolves corrosive HBr, is toxic, and reacts violently with water and alcohols.In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+
+
+In reactions that produce  phosphorous acid as a by-product, when working up by distillation be aware that this can decompose above about 160 °C to give  phosphine which can cause explosions in contact with air. Retrieved from " http://en.wikipedia.org/wiki/Phosphorus_tribromide"
+
+
+

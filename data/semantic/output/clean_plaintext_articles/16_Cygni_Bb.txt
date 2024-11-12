@@ -1,0 +1,9 @@
+16 Cygni Bb is an extrasolar planet orbiting the sun-like star 16 Cygni B , one of two solar- mass components of the triple star system 16 Cygni. It makes one revolution every 799 days and was the first eccentric Jupiter to be discovered.
+## Discovery
+In 1996 the discovery of a planetary -mass companion to the star 16 Cygni B was announced, with a mass at least 1.68 times that of Jupiter . At the time, it had the highest orbital eccentricity of any known extrasolar planet. The discovery was made by measuring the star's radial velocity. Like all planets discovered using this method, only a lower limit on the mass is known.
+## Orbit and mass
+Unlike the planets in our solar system , the planet's orbit is highly elliptical, and its distance varies from 0.54 AU at periastron to 2.8 AU at apastron. This high eccentricity may have been caused by tidal interactions in the binary star system, and the planet's orbit may vary chaotically between low and high-eccentricity states over a period of tens of millions of years.
+The lower limit for the object's mass is well below the dividing line between planets and brown dwarfs at 13 Jupiter masses. Preliminary astrometric measurements, however, suggest the orbit of 16 Cygni Bb may be highly inclined with respect to our line of sight (at around 173°). This would mean the object's mass may be around 14 times that of Jupiter, making it a low-mass brown dwarf.
+## Characteristics
+Since the planet has only been detected indirectly by measurements of its parent star, properties such as its radius, composition and temperature are unknown.
+The planet's highly eccentric orbit means the planet would experience extreme seasonal effects. Despite this, simulations suggest that an Earthlike moon would be able to support liquid water at its surface over the course of a year, though it is unclear whether such moons could actually form.

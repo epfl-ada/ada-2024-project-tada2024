@@ -1,0 +1,26 @@
+Ceratopsids , or members of the Ceratopsidae (or Ceratopidae ), are a diverse group of marginocephalian dinosaurs like Triceratops and Styracosaurus . All known species were quadrupedal herbivores from the Upper Cretaceous of Western North America and are characterized by beaks, rows of shearing teeth in the back of the jaw, and elaborate horns and frills. The group is divided into two subfamilies. The Ceratopsinae or Chasmosaurinae are generally characterized by long, triangular frills and well-developed brow horns. The Centrosaurinae had well-developed nasal horns or nasal bosses, shorter and more rectangular frills, and elaborate spines on the back of the frill.
+These horns and frills show remarkable variation and are the principle means by which the various species have been recognized. Their purpose is not entirely clear. Defense against predators is one possible purpose - although the frills are comparatvely fragile in many species - but it is more likely that, as in modern ungulates, they may have been secondary sexual characteristics used in displays or for intraspecific combat. The massive bosses on the skulls of Pachyrhinosaurus and Achelosaurus resemble those formed by the base of the horns in modern musk oxen, suggesting that they may have butted heads. Centrosaurs have frequently been found in massive bone beds with few other species present, suggesting that the animals might have lived in large herds.
+## Taxonomy
+Infraorder Ceratopsia
+FAMILY CERATOPSIDAE
+Subfamily Centrosaurinae
+Avaceratops - ( Montana, USA)
+Tribe Centrosaurini
+Monoclonius - ( Montana, USA & Alberta, Canada)
+Brachyceratops - ( Montana, USA & Alberta, Canada)
+Centrosaurus - ( Alberta, Canada)
+Styracosaurus - ( Alberta, Canada & Montana, USA)
+Tribe Pachyrhinosaurini
+Einiosaurus - ( Montana, USA)
+Achelousaurus - ( Montana, USA)
+Pachyrhinosaurus - ( Alberta, Canada & Alaska)
+Subfamily Ceratopsinae
+? Ceratops - ( Montana, USA & Alberta, Canada)
+Chasmosaurus - ( Alberta, Canada)
+Agujaceratops - ( Texas, USA)
+Pentaceratops - ( New Mexico, USA)
+Anchiceratops - ( Alberta, Canada)
+Arrhinoceratops - ( Alberta, Canada)
+Torosaurus - ( Wyoming, Montana, South Dakota, North Dakota, Utah & Saskatchewan)
+Diceratops - ( Wyoming, USA)
+Triceratops - Montana, Wyoming, USA & Saskatchewan, Alberta, Canada.

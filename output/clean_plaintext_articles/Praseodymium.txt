@@ -1,425 +1,49 @@
-Praseodymium ( IPA: /ˌpreɪziə(ʊ)ˈdɪmiəm, ˌpreɪsi-/) is a chemical element in the periodic table that has the symbol Pr and  atomic number 59.
- Notable characteristics
-Praseodymium is a soft silvery metallic element, and belongs to the  lanthanide group. It is somewhat more resistant to corrosion in air than europium, lanthanum, cerium, or neodymium, but it does develop a green  oxide coating that  spalls off when exposed to air, exposing more metal to  oxidation. For this reason, praseodymium should be stored under a light  mineral oil or sealed in glass. Applications
+Praseodymium ( IPA: /ˌpreɪziə(ʊ)ˈdɪmiəm, ˌpreɪsi-/ ) is a chemical element in the periodic table that has the symbol Pr and atomic number 59.
+## Notable characteristics
+Praseodymium is a soft silvery metallic element, and belongs to the lanthanide group. It is somewhat more resistant to corrosion in air than europium , lanthanum , cerium , or neodymium , but it does develop a green oxide coating that spalls off when exposed to air, exposing more metal to oxidation. For this reason, praseodymium should be stored under a light mineral oil or sealed in glass.
+## Applications
 Uses of praseodymium:
-As an  alloying agent with magnesium to create high-strength metals that are used in  aircraft engines.Praseodymium forms the core of  carbon arc lights which are used in the  motion picture industry for  studio lighting and  projector lights.Praseodymium  compounds are used to give glasses and  enamels a yellow colour.Praseodymium is a component of  didymium glass, which is used to make certain types of welder's and  glass blower's goggles.Dr. Matthew Sellars of the Laser Physics Centre at the  Australian National University in Canberra, Australia  slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
+As an alloying agent with magnesium to create high-strength metals that are used in aircraft engines.
+Praseodymium forms the core of carbon arc lights which are used in the motion picture industry for studio lighting and projector lights.
+Praseodymium compounds are used to give glasses and enamels a yellow colour.
+Praseodymium is a component of didymium glass, which is used to make certain types of welder 's and glass blower's goggles.
+Dr. Matthew Sellars of the Laser Physics Centre at the Australian National University in Canberra, Australia slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
+## History
+The name praseodymium comes from the Greek prasios , meaning green, and didymos , or twin. Praseodymium is frequently misspelled as Praseody n ium.
+In 1841, Mosander extracted the rare earth didymium from lanthana. In 1874, Per Teodor Cleve concluded that didymium was in fact two elements, and in 1879, Lecoq de Boisbaudran isolated a new earth, samarium , from didymium obtained from the mineral samarskite. In 1885, the Austrian chemist baron Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium , which gave salts of different colors .
+## Occurrence
+Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals monazite and bastnasite, and can be recovered from bastnasite or monazite by an ion exchange process.
+Praseodymium also makes up about 5% of Misch metal.
+## Compounds
 Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-
- Notable characteristics
-Praseodymium is a soft silvery metallic element, and belongs to the  lanthanide group. It is somewhat more resistant to corrosion in air than europium, lanthanum, cerium, or neodymium, but it does develop a green  oxide coating that  spalls off when exposed to air, exposing more metal to  oxidation. For this reason, praseodymium should be stored under a light  mineral oil or sealed in glass. Applications
-Uses of praseodymium:
-As an  alloying agent with magnesium to create high-strength metals that are used in  aircraft engines.Praseodymium forms the core of  carbon arc lights which are used in the  motion picture industry for  studio lighting and  projector lights.Praseodymium  compounds are used to give glasses and  enamels a yellow colour.Praseodymium is a component of  didymium glass, which is used to make certain types of welder's and  glass blower's goggles.Dr. Matthew Sellars of the Laser Physics Centre at the  Australian National University in Canberra, Australia  slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Praseodymium is a soft silvery metallic element, and belongs to the  lanthanide group. It is somewhat more resistant to corrosion in air than europium, lanthanum, cerium, or neodymium, but it does develop a green  oxide coating that  spalls off when exposed to air, exposing more metal to  oxidation. For this reason, praseodymium should be stored under a light  mineral oil or sealed in glass. Applications
-Uses of praseodymium:
-As an  alloying agent with magnesium to create high-strength metals that are used in  aircraft engines.Praseodymium forms the core of  carbon arc lights which are used in the  motion picture industry for  studio lighting and  projector lights.Praseodymium  compounds are used to give glasses and  enamels a yellow colour.Praseodymium is a component of  didymium glass, which is used to make certain types of welder's and  glass blower's goggles.Dr. Matthew Sellars of the Laser Physics Centre at the  Australian National University in Canberra, Australia  slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- Applications
-Uses of praseodymium:
-As an  alloying agent with magnesium to create high-strength metals that are used in  aircraft engines.Praseodymium forms the core of  carbon arc lights which are used in the  motion picture industry for  studio lighting and  projector lights.Praseodymium  compounds are used to give glasses and  enamels a yellow colour.Praseodymium is a component of  didymium glass, which is used to make certain types of welder's and  glass blower's goggles.Dr. Matthew Sellars of the Laser Physics Centre at the  Australian National University in Canberra, Australia  slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Uses of praseodymium:
-As an  alloying agent with magnesium to create high-strength metals that are used in  aircraft engines.Praseodymium forms the core of  carbon arc lights which are used in the  motion picture industry for  studio lighting and  projector lights.Praseodymium  compounds are used to give glasses and  enamels a yellow colour.Praseodymium is a component of  didymium glass, which is used to make certain types of welder's and  glass blower's goggles.Dr. Matthew Sellars of the Laser Physics Centre at the  Australian National University in Canberra, Australia  slowed down a light pulse to a few hundred meters per second using praseodymium mixed with silicate crystal.
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- History
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-The name praseodymium comes from the Greek prasios, meaning green, and didymos, or twin. Praseodymium is frequently  misspelled as Praseodynium.In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-In  1841, Mosander extracted the rare earth  didymium from lanthana. In  1874,  Per Teodor Cleve concluded that didymium was in fact two elements, and in  1879,  Lecoq de Boisbaudran isolated a new earth, samarium, from didymium obtained from the mineral  samarskite. In  1885, the Austrian  chemist baron  Carl Auer von Welsbach separated didymium into two elements, praseodymium and neodymium, which gave salts of different colors. Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- Occurrence
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Praseodymium is available in small quantities in Earth’s crust (9,5ppm). It is found in the rare earth minerals  monazite and  bastnasite, and can be recovered from bastnasite or monazite by an  ion exchange process.Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Praseodymium also makes up about 5% of  Misch metal. Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- Compounds
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Praseodymium compounds include:
- Fluorides
- PrF2 PrF3 PrF4
- Chlorides
- PrCl3
- Bromides
- PrBr3 Pr2Br5
- Iodides
- PrI2 PrI3 Pr2I5
- Oxides
- PrO2 Pr2O3
- Sulfides
- PrS Pr2S3
- Selenides
- PrSe
- Tellurides
- PrTe Pr2Te3
- Nitrides
- PrN
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- Isotopes
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Naturally occurring praseodymium is composed of one stable  isotope, 141Pr. 38  radioisotopes have been characterized with the most stable being 143Pr with a  half-life of 13.57 days and 142Pr with a half-life of 19.12 hours. All of the remaining  radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6  meta states with the most stable being 138mPr (t½ 2.12 hours), 142mPr (t½ 14.6 minutes) and 134mPr (t½ 11 minutes).The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-The isotopes of praseodymium range in  atomic weight from 120.955  u (121Pr) to 158.955 u (159Pr). The primary  decay mode before the stable isotope, 141Pr, is  electron capture and the primary mode after is  beta minus decay. The primary  decay products before 141Pr are element 58 (Cerium) isotopes and the primary products after are element 60 (Neodymium) isotopes. Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
- Precautions
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
-
-Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role. Retrieved from " http://en.wikipedia.org/wiki/Praseodymium"
-
-
-
+Fluorides
+PrF 2
+PrF 3
+PrF 4
+Chlorides
+PrCl 3
+Bromides
+PrBr 3
+Pr 2 Br 5
+Iodides
+PrI 2
+PrI 3
+Pr 2 I 5
+Oxides
+PrO 2
+Pr 2 O 3
+Sulfides
+PrS
+Pr 2 S 3
+Selenides
+PrSe
+Tellurides
+PrTe
+Pr 2 Te 3
+Nitrides
+PrN
+## Isotopes
+Naturally occurring praseodymium is composed of one stable isotope, 141 Pr. 38 radioisotopes have been characterized with the most stable being 143 Pr with a half-life of 13.57 days and 142 Pr with a half-life of 19.12 hours. All of the remaining radioactive isotopes have half-lifes that are less than 5.985 hours and the majority of these have half lifes that are less than 33 seconds. This element also has 6 meta states with the most stable being 138m Pr (t ½ 2.12 hours), 142m Pr (t ½ 14.6 minutes) and 134m Pr (t ½ 11 minutes).
+The isotopes of praseodymium range in atomic weight from 120.955 u ( 121 Pr) to 158.955 u ( 159 Pr). The primary decay mode before the stable isotope, 141 Pr, is electron capture and the primary mode after is beta minus decay. The primary decay products before 141 Pr are element 58 ( Cerium ) isotopes and the primary products after are element 60 ( Neodymium ) isotopes.
+## Precautions
+Like all rare earths, praseodymium is of low to moderate toxicity. Praseodymium has no known biological role.

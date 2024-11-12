@@ -1,179 +1,30 @@
-Barium ( IPA: /ˈbɛːriəm/) is a chemical element in the periodic table that has the symbol Ba and  atomic number 56. Barium is soft silvery metallic  alkaline earth metal. It is never found in nature in its pure form due to its  reactivity with air. Its oxide is historically known as  baryta but it reacts with water and carbon dioxide and is not found as a mineral. The most common naturally occurring minerals are the very insoluble barium sulfate, BaSO4 ( barite), and barium  carbonate, BaCO3 ( witherite).
- Notable characteristics
-Barium is a metallic element that is chemically similar to calcium but more reactive. This metal  oxidizes very easily when exposed to air and is highly  reactive with  water or alcohol, producing hydrogen gas. Burning in air or oxygen produces not just  barium oxide (BaO) but also the  peroxide. Simple compounds of this heavy element are notable for their high  specific gravity. This is true of the most common barium-bearing mineral, its  sulfate  barite BaSO4, also called 'heavy spar' due to the high density (4.5 g/cm³). Applications
+Barium ( IPA: /ˈbɛːriəm/ ) is a chemical element in the periodic table that has the symbol Ba and atomic number 56. Barium is soft silvery metallic alkaline earth metal. It is never found in nature in its pure form due to its reactivity with air . Its oxide is historically known as baryta but it reacts with water and carbon dioxide and is not found as a mineral. The most common naturally occurring minerals are the very insoluble barium sulfate, BaSO 4 ( barite), and barium carbonate, BaCO 3 ( witherite).
+## Notable characteristics
+Barium is a metallic element that is chemically similar to calcium but more reactive. This metal oxidizes very easily when exposed to air and is highly reactive with water or alcohol , producing hydrogen gas. Burning in air or oxygen produces not just barium oxide (BaO) but also the peroxide. Simple compounds of this heavy element are notable for their high specific gravity. This is true of the most common barium-bearing mineral, its sulfate barite BaSO 4 , also called 'heavy spar' due to the high density (4.5 g/cm³).
+## Applications
 Barium has some medical and many industrial uses:
-Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in  drilling mud, a weighting agent in drilling new  oil wells. Barium sulfate is also a good X-ray absorber, used in  X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas"). Barium carbonate is a useful  rat poison and can also be used in making  bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.An alloy with nickel is used in  sparkplug wire. Barium oxide is used in a coating for the  electrodes of  fluorescent lamps, which facilitates the release of electrons.The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen. Barium carbonate is used in glassmaking. Being a heavy element, barium increases the  refractive index and luster of the glass. Barite is used extensively in  rubber production. Barium nitrate and chlorate give green colors in fireworks.Impure  barium sulfide  phosphoresces after exposure to the light. Lithopone, a pigment that contains  barium sulfate and  zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.Barium peroxide can be used as a catalyst to start an  aluminothermic reaction when welding rail tracks together. It can also be used in green  tracer ammunition.
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-
- Notable characteristics
-Barium is a metallic element that is chemically similar to calcium but more reactive. This metal  oxidizes very easily when exposed to air and is highly  reactive with  water or alcohol, producing hydrogen gas. Burning in air or oxygen produces not just  barium oxide (BaO) but also the  peroxide. Simple compounds of this heavy element are notable for their high  specific gravity. This is true of the most common barium-bearing mineral, its  sulfate  barite BaSO4, also called 'heavy spar' due to the high density (4.5 g/cm³). Applications
-Barium has some medical and many industrial uses:
-Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in  drilling mud, a weighting agent in drilling new  oil wells. Barium sulfate is also a good X-ray absorber, used in  X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas"). Barium carbonate is a useful  rat poison and can also be used in making  bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.An alloy with nickel is used in  sparkplug wire. Barium oxide is used in a coating for the  electrodes of  fluorescent lamps, which facilitates the release of electrons.The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen. Barium carbonate is used in glassmaking. Being a heavy element, barium increases the  refractive index and luster of the glass. Barite is used extensively in  rubber production. Barium nitrate and chlorate give green colors in fireworks.Impure  barium sulfide  phosphoresces after exposure to the light. Lithopone, a pigment that contains  barium sulfate and  zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.Barium peroxide can be used as a catalyst to start an  aluminothermic reaction when welding rail tracks together. It can also be used in green  tracer ammunition.
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-Barium is a metallic element that is chemically similar to calcium but more reactive. This metal  oxidizes very easily when exposed to air and is highly  reactive with  water or alcohol, producing hydrogen gas. Burning in air or oxygen produces not just  barium oxide (BaO) but also the  peroxide. Simple compounds of this heavy element are notable for their high  specific gravity. This is true of the most common barium-bearing mineral, its  sulfate  barite BaSO4, also called 'heavy spar' due to the high density (4.5 g/cm³). Applications
-Barium has some medical and many industrial uses:
-Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in  drilling mud, a weighting agent in drilling new  oil wells. Barium sulfate is also a good X-ray absorber, used in  X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas"). Barium carbonate is a useful  rat poison and can also be used in making  bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.An alloy with nickel is used in  sparkplug wire. Barium oxide is used in a coating for the  electrodes of  fluorescent lamps, which facilitates the release of electrons.The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen. Barium carbonate is used in glassmaking. Being a heavy element, barium increases the  refractive index and luster of the glass. Barite is used extensively in  rubber production. Barium nitrate and chlorate give green colors in fireworks.Impure  barium sulfide  phosphoresces after exposure to the light. Lithopone, a pigment that contains  barium sulfate and  zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.Barium peroxide can be used as a catalyst to start an  aluminothermic reaction when welding rail tracks together. It can also be used in green  tracer ammunition.
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Applications
-Barium has some medical and many industrial uses:
-Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in  drilling mud, a weighting agent in drilling new  oil wells. Barium sulfate is also a good X-ray absorber, used in  X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas"). Barium carbonate is a useful  rat poison and can also be used in making  bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.An alloy with nickel is used in  sparkplug wire. Barium oxide is used in a coating for the  electrodes of  fluorescent lamps, which facilitates the release of electrons.The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen. Barium carbonate is used in glassmaking. Being a heavy element, barium increases the  refractive index and luster of the glass. Barite is used extensively in  rubber production. Barium nitrate and chlorate give green colors in fireworks.Impure  barium sulfide  phosphoresces after exposure to the light. Lithopone, a pigment that contains  barium sulfate and  zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.Barium peroxide can be used as a catalyst to start an  aluminothermic reaction when welding rail tracks together. It can also be used in green  tracer ammunition.
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-Barium has some medical and many industrial uses:
-Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in  drilling mud, a weighting agent in drilling new  oil wells. Barium sulfate is also a good X-ray absorber, used in  X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas"). Barium carbonate is a useful  rat poison and can also be used in making  bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.An alloy with nickel is used in  sparkplug wire. Barium oxide is used in a coating for the  electrodes of  fluorescent lamps, which facilitates the release of electrons.The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen. Barium carbonate is used in glassmaking. Being a heavy element, barium increases the  refractive index and luster of the glass. Barite is used extensively in  rubber production. Barium nitrate and chlorate give green colors in fireworks.Impure  barium sulfide  phosphoresces after exposure to the light. Lithopone, a pigment that contains  barium sulfate and  zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.Barium peroxide can be used as a catalyst to start an  aluminothermic reaction when welding rail tracks together. It can also be used in green  tracer ammunition.
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- History
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-Barium ( Greek "barys" meaning "heavy") was first identified in  1774 by  Carl Scheele and extracted in  1808 by Sir Humphry Davy in England. The oxide was at first called barote, by  Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal. Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Occurrence
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral  barite which is crystalized barium sulfate. Barium is commercially produced through the  electrolysis of molten  barium chloride (BaCl2) Isolation (* follow):
-
-( cathode) Ba2+* + 2e- → Ba ( anode) Cl-* → ½Cl2 (g) + e-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Compounds
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-The most important compounds are barium peroxide, barium chloride,  sulfate,  carbonate,  nitrate, and  chlorate. Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Isotopes
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-Naturally occurring barium is a mix of seven stable  isotopes. There are twenty-two isotopes known, but most of these are highly  radioactive and have  half-lifes in the several millisecond to several minute range. The only notable exceptions are 133Ba which has a half-life of 10.51 years, and 137mBa (2.6 minutes). Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Precautions
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
-All water or acid  soluble barium compounds are extremely  poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the  nervous system, causing cardiac irregularities, tremors,  weakness,  anxiety,  dyspnea and  paralysis. This may be due to its ability to block  potassium ion channels which are critical to the proper function of the nervous system. Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other  heavy metals, barium does not  bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a  benign condition called  baritosis. Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
-
- Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as  kerosene) or other suitable oxygen-free liquids that exclude air. Retrieved from " http://en.wikipedia.org/wiki/Barium"
-
-
-
+Barium compounds, and especially barite (BaSO4), are extremely important to the petroleum industry. Barite is used in drilling mud, a weighting agent in drilling new oil wells.
+Barium sulfate is also a good X-ray absorber, used in X-ray diagnostic work for obtaining images of the digestive system (" barium meals" and " barium enemas").
+Barium carbonate is a useful rat poison and can also be used in making bricks. Unlike the sulfate, the carbonate disolves in stomach acid, allowing it to be poisonous.
+An alloy with nickel is used in sparkplug wire.
+Barium oxide is used in a coating for the electrodes of fluorescent lamps, which facilitates the release of electrons .
+The metal is a " getter" in vacuum tubes, to remove the last traces of oxygen .
+Barium carbonate is used in glassmaking . Being a heavy element, barium increases the refractive index and luster of the glass.
+Barite is used extensively in rubber production.
+Barium nitrate and chlorate give green colors in fireworks.
+Impure barium sulfide phosphoresces after exposure to the light .
+Lithopone, a pigment that contains barium sulfate and zinc sulfide, is a permanent white that has good covering power, and does not darken in when exposed to sulfides.
+Barium peroxide can be used as a catalyst to start an aluminothermic reaction when welding rail tracks together. It can also be used in green tracer ammunition.
+## History
+Barium ( Greek "barys" meaning "heavy") was first identified in 1774 by Carl Scheele and extracted in 1808 by Sir Humphry Davy in England . The oxide was at first called barote, by Guyton de Morveau, which was changed by Antoine Lavoisier to baryta, from which "barium" was derived to describe the metal.
+## Occurrence
+Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral barite which is crystalized barium sulfate. Barium is commercially produced through the electrolysis of molten barium chloride (BaCl 2 ) Isolation (* follow):
+( cathode) Ba 2+ * + 2 e - → Ba ( anode) Cl - * → ½Cl 2 ( g ) + e -
+## Compounds
+The most important compounds are barium peroxide, barium chloride, sulfate, carbonate, nitrate, and chlorate.
+## Isotopes
+Naturally occurring barium is a mix of seven stable isotopes. There are twenty-two isotopes known, but most of these are highly radioactive and have half-lifes in the several millisecond to several minute range. The only notable exceptions are 133 Ba which has a half-life of 10.51 years, and 137m Ba (2.6 minutes).
+## Precautions
+All water or acid soluble barium compounds are extremely poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the nervous system, causing cardiac irregularities, tremors, weakness, anxiety, dyspnea and paralysis. This may be due to its ability to block potassium ion channels which are critical to the proper function of the nervous system.
+Barium sulfate can be used in medicine only because it does not dissolve, and is eliminated completely from the digestive tract. Unlike other heavy metals, barium does not bioaccumulate. However, inhaled barium dust can accumulate in the lungs, a benign condition called baritosis.
+Oxidation occurs very easily and, to remain pure, barium should be kept under a petroleum-based fluid (such as kerosene) or other suitable oxygen -free liquids that exclude air.

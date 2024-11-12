@@ -1,52 +1,14 @@
 This is an alphabetical list of African countries and dependencies.
-
- Algeria Angola Benin Botswana Burkina Faso Burundi Cameroon Cape Verde Central African Republic Chad Comoros Congo-Brazzaville  Congo-Kinshasa  Côte d'Ivoire Djibouti Egypt Equatorial Guinea Eritrea Ethiopia
- Gabon The Gambia Ghana Guinea Guinea-Bissau Kenya Lesotho Liberia Libya Madagascar Malawi Mali Mauritania Mauritius Mayotte  Morocco Mozambique Namibia Niger
- Nigeria Réunion  Rwanda Saint Helena  São Tomé and Príncipe Senegal Seychelles Sierra Leone Somalia South Africa Sudan Swaziland Tanzania Togo Tunisia Uganda Western Sahara ( SADR) Zambia Zimbabwe
-
-
-Other lists
-
-African countries
-
- by GDP
- by GDP per capita by GDP PPP
- by population
- by population density
-
-Other countries by continent
-
-AsiaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_African_countries"
-
-
-
-
-African countries
-
- by GDP
- by GDP per capita by GDP PPP
- by population
- by population density
-
-Other countries by continent
-
-AsiaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_African_countries"
-
-
-
-
-Other countries by continent
-
-AsiaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_African_countries"
-
-
-
+##Other lists
+###African countries
+by GDP
+by GDP per capita
+by GDP PPP
+by population
+by population density
+###Other countries by continent
+Asia
+Europe
+North America
+Oceania
+South America

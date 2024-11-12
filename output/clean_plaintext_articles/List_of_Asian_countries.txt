@@ -1,48 +1,12 @@
 This is an alphabetical list of Asian countries and dependencies.
-
- Afghanistan Armenia Azerbaijan Bahrain Bangladesh Bhutan British Indian Ocean Territory  Brunei Cambodia People's Republic of China Christmas Island  Cocos (Keeling) Islands  Cyprus Georgia Hong Kong  India Indonesia
- Iran Iraq Israel Japan Jordan Kazakhstan North Korea  South Korea  Kuwait Kyrgyzstan Laos Lebanon Macau  Malaysia Maldives Mongolia Burma  Nepal Oman
- Pakistan  Palestine  Philippines Qatar Saudi Arabia Singapore Sri Lanka Syria Republic of China  Tajikistan Thailand East Timor  Turkey Turkmenistan United Arab Emirates Uzbekistan Vietnam Yemen
-
-
-Other lists
-
-Asian countries
-
-List of Asian countries by GDP: 
- by GDP per capita by GDP PPP
-
-Other countries by continent
-
-AfricaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_Asian_countries"
-
-
-
-
-Asian countries
-
-List of Asian countries by GDP: 
- by GDP per capita by GDP PPP
-
-Other countries by continent
-
-AfricaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_Asian_countries"
-
-
-
-
-Other countries by continent
-
-AfricaEuropeNorth AmericaOceaniaSouth America
-
-
- Retrieved from " http://en.wikipedia.org/wiki/List_of_Asian_countries"
-
-
-
+##Other lists
+###Asian countries
+List of Asian countries by GDP:
+by GDP per capita
+by GDP PPP
+###Other countries by continent
+Africa
+Europe
+North America
+Oceania
+South America

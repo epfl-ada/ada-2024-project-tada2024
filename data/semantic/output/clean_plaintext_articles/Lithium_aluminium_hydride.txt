@@ -1,0 +1,37 @@
+Lithium aluminium hydride ( Li Al H 4 ), commonly abbreviated to LAH , is a powerful reducing agent used in organic chemistry. It is more powerful than the related reducing agent sodium borohydride due to the weaker Al-H bond compared to the B-H bond. It will convert esters, carboxylic acids and ketones to alcohols ; and nitro compounds into amines.
+LAH violently reacts with water , including atmospheric moisture, and the pure material is pyrophoric. Commercial material is inhibited with mineral oil to allow handling in air.
+Pure, recrystallized (from diethyl ether) LAH is a white solid. Commercial samples are almost always grey due to trace contamination with aluminium metal. White air-exposed commercial samples of LAH have absorbed enough moisture to become a mixture of lithium hydroxide and aluminium hydroxide.
+## Preparation
+LAH is usually produced by the reaction between lithium hydride (LiH) and aluminium chloride (AlCl 3 )
+4LiH + AlCl 3 LiAlH 4 + 3LiCl
+which proceeds with a high yield of LAH (97 % w / w ). LiCl is removed by filtration from an ethereal solution of LAH, with subsequent precipitation of LAH to yield a product with around 1 % w / w LiCl.
+## Inorganic reactions
+LAH and NaH can be used to produce sodium aluminium hydride (NaAlH 4 ) by metathesis in THF with a yield of 90.7 % w / w
+LiAlH 4 + NaH NaAlH 4 + LiH
+Potassium aluminium hydride (KAlH 4 ) can be produced with a yield of 90 % w / w by reaction in diglyme in a similar way
+LiAlH 4 + KH KAlH 4 + LiH
+The reverse, i.e., production of LAH from either sodium aluminium hydride or potassium aluminium hydride can be obtained by reaction with LiCl in diethyl ether and THF with a yield of 93.5 and 91 % w / w , respectively.
+NaAlH 4 + LiCl LiAlH 4 + NaCl
+KAlH 4 + LiCl LiAlH 4 + KCl
+Magnesium alanate (Mg(AlH 4 ) 2 ) can be synthezised from LAH and MgBr 2
+2LiAlH 4 + MgBr 2 Mg(AlH 4 ) 2 + 2LiBr
+## Use in organic chemistry
+Lithium aluminium hydride is widely used in organic chemistry as a very powerful reducing agent. Despite handling problems associated with its reactivity, it is even used at the small-industrial scale, although for large scale reductions the related reagent sodium bis(2-methoxyethoxy)aluminium hydride or Red-Al is more usual. For such purposes it is usually used in solution in diethyl ether, and an aqueous workup is usually performed after the reduction in order to remove inorganic by-products. It is most commonly used for the reduction of esters and carboxylic acids to primary alcohols; prior to the advent of LiAlH 4 this was a difficult conversion involving sodium metal in boiling ethanol (the Bouveault-Blanc reduction). Aldehydes and ketones can also be reduced to alcohols by LAH, but this is usually done using milder reagents such as NaBH 4 . α,β-Unsaturated ketones are reduced to allylic alcohols. When epoxides are reduced using LAH, the reagent attacks the less hindered end of the epoxide, usually producing a secondary or tertiary alcohol. It reduces by progressive breakup of the complex AlH 4 − and transfer of hydride ions to the positive centre in an organic compound which may have a low density of electrons due to inductive or mesomeric effects.
+Amines can be prepared by the LAH reduction of amides , oximes , nitriles, nitro compounds or alkyl azides. LAH is also able to reduce primary alkyl halides to alkanes.
+Lithium aluminium hydride is not able to reduce simple alkenes or benzene rings, and alkynes are only reduced if an alcohol group is nearby.
+## Thermal decomposition
+At room temperature LAH is metastable. During prolonged storage it may slowly decompose to Li 3 AlH 6 and LiH. This process can be accelerated by the presence of catalytic elements e.g. Ti , Fe , V .
+When heated LAH decompose in a three step reaction mechanism.
+LiAlH 4 1/3Li 3 AlH 6 + 2/3Al + H 2 (R1)
+1/3Li 3 AlH 6 LiH + 1/3Al + 1/2H 2 (R2)
+LiH + Al LiAl + 1/2H 2 (R3)
+R1 is usually initiated by the melting of LAH around a temperature of 150-170 o C immediately followed by decomposition into solid Li 3 AlH 6 . From 200-250 o C Li 3 AlH 6 decompose into LiH (R2) which subsequently decompose into LiAl above 400 o C (R3). R1 is effectively irreversible, because LiAlH 4 is metastable. The reversibility of R2 has not yet been conclusively established. R3 is reversible with an equilibrium pressure of about 0.25 bar at 500 o C. R1 and R2 can occur at room temperature with suitable catalysts.
+According to reactions R1-R3 LiAlH 4 contains 10.6 wt % hydrogen thereby making LAH a potential hydrogen storage medium for future fuel cell powered vehicles. Cycling only R2 would store 5.6 wt % in the material in a single step (comparable to the two steps of NaAlH 4 ).
+## Solubility data
+LAH is soluble in many etheral solutions. However, it may spontaneously decompose due to the presence of catalytic impurities, though, it appears to be more stable in THF. Thus, THF is preferred over e.g. diethyl ether even despite the lower solubility.
+Note that water should not be used as a solvent for lithium aluminium hydride, which would react as in the following equation.
+LiAlH 4 + 4H 2 O Li + + Al 3+ + 4OH - + 4H 2
+## Crystal structure
+The crystal structure of LAH belongs to the monoclinic crystal system and the space group is P2 1 c. The crystal structure of LAH is illustrated to the right. The structure consists of Li atoms surrounded by five AlH 4 tetrahedra. The Li atoms are bonded to one hydrogen atom from each of the surrounding tetrahedra creating a bipyramid arrangement. The side lengths of the unit cell are approx. a=4.82, b=7.81 and c=7.92, and the β angle is approx. 112 °. At high pressures (>2.2GPa) a phase transition into β-LAH occurs.
+## Thermodynamic data
+The table summarizes thermodynamic data for LAH and reactions involving LAH, in the form of standard enthalpy, entropy and Gibbs free energy change, respectively.

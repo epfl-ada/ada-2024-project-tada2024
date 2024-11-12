@@ -1,6 +1,0 @@
-Darmstadtium ( IPA: /ˌdɑːmˈʃtatiəm/ ), formerly called ununnilium ( IPA: /ˌjuːnuːˈnɪliəm/ , symbol Uun ) or eka- platinum , is a chemical element with the symbol Ds and atomic number 110. It is one of the so-called super-heavy atoms. This synthetic element quickly decays: its isotopes of mass 267 to 273 have half-lives measured in microseconds. Heavier isotopes, of mass 279 and 281, have been subsequently synthesized and are more stable, with half-lives of 180 milliseconds and 11.1 seconds, respectively.
-## History
-Ds was first generated on November 9, 1994 at the Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany by a team headed by Dr. Jorge Rigol. Only a few atoms of it were prepared by nuclear fusion, involving bombarding a lead target with nickel:
-The element was named after the place of its discovery, Darmstadt (the GSI is located in Wixhausen, a northern portion of the city). The new name was given to it by the IUPAC on August 16, 2003.
-## Trivia
-Some suggested (for fun) the name policium for the new element, because 110 is the emergency telephone number for the German police .

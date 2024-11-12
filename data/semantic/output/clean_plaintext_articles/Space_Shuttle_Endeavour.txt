@@ -1,0 +1,25 @@
+Space Shuttle Orbiter Endeavour ( NASA Orbiter Vehicle Designation: OV-105), is the fifth and final operational NASA space shuttle to be built.
+## History
+The United States Congress authorized the construction of Endeavour in 1987 to replace Challenger , which was lost in an accident in 1986. Structural spares from the construction of shuttles Discovery and Atlantis were used in its assembly. The decision to build Endeavour was favored over refitting Enterprise because it was cheaper.
+Endeavour was delivered by Rockwell International in May 1991 and first launched a year later, in May 1992, on STS-49. Rockwell International claimed that it had made no profit on Space Shuttle Endeavour , despite it costing $2.2 billion USD. On its first mission, it captured and redeployed the stranded INTELSAT VI communications satellite.
+In 1993, it made the first service mission to the Hubble Space Telescope . Endeavour was withdrawn from service for eight months in 1997 for a retrofit, including installation of a new airlock. In December 1998, it delivered the Unity Module to the International Space Station .
+Endeavour was named through a national competition involving students in elementary and secondary schools. The orbiter is named after HM Bark Endeavour , the ship commanded by 18th century explorer James Cook ; the name also honored Endeavour , the Command Module of Apollo 15. This is why the name is spelled in the British English manner, rather than the American English spelling of "Endeavor."
+Endeavour completed its latest Orbiter Major Modification period, which began in December 2003, and ended on Thursday, October 6, 2005. During this time, the Orbiter received major hardware upgrades, including a new, multi-functional, electronic display system, often referred to as glass cockpit, and an advanced GPS receiver, along with safety upgrades recommended by the Columbia Accident Investigation Board (CAIB) for Shuttle return to flight after the disintegration of sister-ship Columbia during re-entry on February 1, 2003.
+As of September 2006, Endeavour is housed in the Orbiter Processing Facility Bay 2 at NASA's Kennedy Space Centre in Florida, where it is prepared for its next mission to the International Space Station , STS-118, currently scheduled for June 2007.
+## Upgrades and features
+Endeavour features new hardware designed to improve and expand orbiter capabilities. Most of this equipment was later incorporated into the other three orbiters during out-of-service major inspection and modification programs. Endeavour' s upgrades include:
+A 40-foot diameter drag chute that is expected to reduce the orbiter's rollout distance by 1,000 to 2,000 feet.
+The plumbing and electrical connections needed for Extended Duration Orbiter (EDO) modifications to allow up to 28-day missions (although a 28-day mission has never yet been attempted; the current record is 17 days, which was set with the Columbia orbiter).
+Updated avionics systems that include advanced general purpose computers, improved inertial measurement units and tactical air navigation systems, enhanced master events controllers and multiplexer-demultiplexers, a solid-state star tracker and improved nose wheel steering mechanisms.
+An improved version of the Auxiliary Power Units (APUs) that provide power to operate the Shuttle's hydraulic systems.
+Modifications resulting from a 2005-2006 refit of Endeavour include:
+The Station-to-Shuttle Power Transfer System (SSPTS), which converts 8 kiloWatts of DC voltage from the ISS main voltage of 120VDC to the orbiter bus voltage of 28VDC. This upgrade will allow Endeavour to remain on-orbit while docked at ISS for an additional 3- to 4-day duration. The corresponding power equipment will be added to ISS during the planned STS-116 station assembly mission, and Endeavour will first fly with SSPTS capability during planned STS-118.
+## Flights
+Space Shuttle Endeavour has flown 19 flights, spent 206.60 days in space, completed 3,259 orbits, and flown 85,072,077 miles (136,910,237 km) in total, as of February 2003. It last flew in November 2002.
+## The Endeavour in fiction
+The Space Shuttle Endeavour was briefly shown in the 2003 film The Core .
+Endeavour appears in the first episode of season 2 of Stargate SG-1 , where it rescues SG-1 from two stranded alien spacecraft.
+Endeavour is mentioned in the movie Contact with Jodie Foster
+## Decommissioning of Space Shuttle Endeavour
+According to NASA, Space Shuttle Endeavour will be decommissioned in 2010, which will be 18 years old by then, along with Discovery ( Atlantis is scheduled for retirement in 2008). NASA expects to have a reusable launch vehicle ready no later than 2014.
+If the expected mission schedule is adhered to, Endeavour will be the last shuttle to fly.

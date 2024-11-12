@@ -59,4 +59,5 @@ The directory structure of new project looks like this:
 |   |   +---embedding_models                -> contains embedding models
 |   |   |   |   all_MiniLM_L6_v2.py
 |   |   |   |   all_mpnet_base_v2.py
+|   |   |   |   roberta.py
 ```

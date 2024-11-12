@@ -6,6 +6,7 @@ from glob import glob
 
 from embedding_models.all_MiniLM_L6_v2 import All_MiniLM_L6_v2
 from embedding_models.all_mpnet_base_v2 import all_mpnet_base_v2
+from embedding_models.roberta import Roberta
 from tqdm import tqdm
 
 current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -60,6 +61,7 @@ def parse_argumnets():
         "--model_name",
         type=str,
         default="all_MiniLM_L6_v2",
+        choices=["all_MiniLM_L6_v2", "all_mpnet_base_v2", "roberta"],
         help="Embedding Model Name (default: %(default)s)",
     )
 
@@ -74,7 +76,11 @@ if __name__ == "__main__":
         model = All_MiniLM_L6_v2()
     elif args.model_name == "all_mpnet_base_v2":
         model = all_mpnet_base_v2()
+    elif args.model_name == "roberta":
+        model = Roberta()
 
     article_embeddings = generate_embeddings(args.articles_dir, model)
 
-    save_embeddings(article_embeddings, args.embeddings_dir, args.model_name, overwrite_latest=True)
+    save_embeddings(
+        article_embeddings, args.embeddings_dir, args.model_name, overwrite_latest=True
+    )

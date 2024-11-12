@@ -1,0 +1,37 @@
+Note: This article title may be easily confused with Geranium..
+Germanium ( IPA: /dʒə(r)ˈmeɪniəm/ ) is a chemical element in the periodic table that has the symbol Ge and atomic number 32. This is a lustrous, hard, silver-white metalloid that is chemically similar to tin . Germanium forms a large number of organometallic compounds and is an important semiconductor material used in transistors.
+## Notable characteristics
+Germanium is a hard, grayish-white element that has a metallic luster and the same crystal structure as diamond . In addition, it is important to note that germanium is a semiconductor, with electrical properties between those of a metal and an insulator. In its pure state, this metalloid is crystalline , brittle and retains its lustre in air at room temperature. Zone refining techniques have led to the production of crystalline germanium for semiconductors that have an impurity of only one part in 10 10 .
+## History
+In 1871 germanium ( Latin Germania for Germany ) was one of the elements that Dmitri Mendeleev predicted to exist as a missing analogue of the silicon group (Mendeleev called it " ekasilicon"). The existence of this element was proven by Clemens Winkler in 1886. This discovery was an important confirmation of Mendeleev's idea of element periodicity.
+The development of the germanium transistor opened the door to countless applications of solid state electronics. From 1950 through the early 1970s, this area provided an increasing market for germanium, but then high purity silicon began replacing germanium in transistors, diodes, and rectifiers. Silicon has superior electrical properties, but requires much higher purity samples—a purity which could not be commercially achieved in the early days. Meanwhile, demand for germanium in fibre optics communication networks, infrared night vision systems, and polymerization catalysts increased dramatically. These end uses represented 85% of worldwide germanium consumption for 2000.
+## Applications
+Unlike most semiconductors, germanium has a small band gap, allowing it to efficiently respond to infrared light. It is therefore used in infrared spectroscopes and other optical equipment which require extremely sensitive infrared detectors. Its oxide's index of refraction and dispersion properties make germanium useful in wide-angle camera lenses and in microscope objective lenses.
+Germanium transistors are still used in some stompboxes by musicians who wish to reproduce the distinctive tonal character of the "fuzz"-tone from the early rock and roll era. Vintage stompboxes known to contain germanium transistors have shown marked increases in collector value for this reason alone.
+The alloy Silicon germanide (commonly referred to as "silicon-germanium", or SiGe) is rapidly becoming an important semiconductor material, for use in high speed integrated circuits. Circuits utilising the properties of Si-SiGe junctions can be much faster than those using silicon alone.
+Other uses:
+Alloying agent (see below)
+Phosphor in fluorescent lamps
+catalyst
+High purity germanium single crystal detectors can precisely identify radiation sources (e.g. for airport security)
+Germanium substrate wafers for high-efficiency multi-junction solar cells for space applications
+Certain compounds of germanium have low toxicity to mammals , but have toxic effects against certain bacteria . This property makes these compounds useful as chemotherapeutic agents.
+Germanium is useful for single crystal neutron or synchrotron X-ray monochromator for beamlines. The reflectivity has advantages over silicon in neutron and High energy X-ray applications.
+While germanium has been claimed as an attractive nutritional supply, able to cure even cancer and AIDS , FDA research has concluded that the offered supplements "present potential human health hazard".
+In recent years germanium has seen increasing use in precious metal alloys. In sterling silver alloys, for instance, it has been found to reduce firescale, increase tarnish resistance, and increase the alloy's response to precipitation hardening (see Argentium sterling silver).
+## Occurrence
+This element is found in argyrodite ( sulfide of germanium and silver ); coal ; germanite; zinc ores; and other minerals . See also Category:Germanium minerals
+Germanium is obtained commercially from zinc ore processing smelter dust and from the combustion by-products of certain coals. A large reserve of this element is therefore in coal sources.
+This metalloid can be extracted from other metals by fractional distillation of its volatile tetrachloride. This technique permits the production of ultra-high purity germanium.
+## Value
+In 1998 the cost of germanium was about US$ 3 per gram. The yearend price for zone-refined germanium has (generally) decreased since then:
+2000.....$1,150 per kilogram (or $1.15 per gram)
+2001.....$890 per kilogram (or $0.89 per gram)
+2002.....$620 per kilogram (or $0.62 per gram)
+2003.....$380 per kilogram (or $0.38 per gram)
+2004.....$600 per kilogram (or $0.60 per gram)
+2005.....$610 per kilogram (or $0.61 per gram)
+2006.....$720 per kilogram (or $0.72 per gram)
+## Compounds
+Some inorganic germanium compounds include Germane or Germanium tetrahydride (GeH 4 ), Germanium tetrachloride (GeCl 4 ), and Germanium dioxide (germania) (GeO 2 ). Some organic compounds of germanium include tetramethylgermane or tetramethyl germanium, (Ge(CH 3 ) 4 ), and tetraethylgermane or tetraethyl germanium, (Ge(C 2 H 5 ) 4 ). Recently a new organogermanium compound isobutylgermane ((CH 3 ) 2 CHCH 2 GeH 3 ), was reported as the less hazardous liquid substitute for toxic germane gas in semiconductor applications.
+See also Category:Germanium compounds

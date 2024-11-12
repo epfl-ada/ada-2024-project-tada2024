@@ -8,3 +8,5 @@ numpy
 beautifulsoup4>=4.12.3
 sentence_transformers>=3.2.1
 tqdm>=4.67.0
+webdriver_manager
+selenium

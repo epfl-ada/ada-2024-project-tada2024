@@ -23,10 +23,17 @@ Each notebook, starts with a configuration cell to define dataset directory, out
 ##### Plaintext cleaning (clean_articels.py)
 
 This script uses the HTML files of each article to extract their plaintext and save it as a .txt file.
+Specify `--download` if the dataset has never been downloaded.
+```bash
+python ./src/semantic/clean_articles.py --download 
+```
 
 ##### Generate Embeddings (generate_embeddings.py)
 
-In this script, given a predefined model, all plaintext articles are embedded and stored in a dictionary. Finally, the dictionary is saved locally as a .pkl file.
+In this script, given a predefined model, all plaintext articles are embedded and stored in a dictionary. Finally, the dictionary is saved locally as a .pkl file. 
+```bash
+python ./src/semantic/generate_embeddings.py --model_name "all_mpnet_base_v2" 
+```
 
 ## Project Structure
 

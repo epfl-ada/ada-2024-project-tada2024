@@ -3,11 +3,9 @@ import pandas as pd
 
 from src.semantic.utils.clustering_methods import (
     Kmeans_Raw,
-    Kmedoids_Euc,
     Kmedoids_Man,
     Kmedoids_Cos,
-    Spectral_NN,
-    Spectral_RBF
+    Spectral_NN
 )
 
 def read_embeddings(file_path):
@@ -42,28 +40,20 @@ def run_all_clustering(embedding_file, category_file, state=520):
 
     # Run each clustering method and transfer the result into dict
     Kmeans_Raw_Clustering = Kmeans_Raw(embeddings, n_clusters, state)
-    Kmeans_Raw_result = dict(zip(concepts, Kmeans_Raw_Clustering))
+    Kmeans_Raw_result = pd.DataFrame({'concept':concepts,'clustering':Kmeans_Raw_Clustering})
     results['K-Means'] = Kmeans_Raw_result
-
-    Kmedoids_Euc_Clustering = Kmedoids_Euc(embeddings, n_clusters, state)
-    Kmedoids_Euc_result = dict(zip(concepts, Kmedoids_Euc_Clustering))
-    results['K-Medoids Euclidean'] = Kmedoids_Euc_result
     
     Kmedoids_Man_Clustering = Kmedoids_Man(embeddings, n_clusters, state)
-    Kmedoids_Man_result = dict(zip(concepts, Kmedoids_Man_Clustering))
-    results['K-Medoids Manhattan'] = Kmedoids_Man_result
+    Kmedoids_Man_result = pd.DataFrame({'concept':concepts,'clustering':Kmedoids_Man_Clustering})
+    results['K-Medoids with Manhattan'] = Kmedoids_Man_result
 
     Kmedoids_Cos_Clustering = Kmedoids_Cos(embeddings, n_clusters, state)
-    Kmedoids_Cos_result = dict(zip(concepts, Kmedoids_Cos_Clustering))
-    results['K-Medoids Cosine'] = Kmedoids_Cos_result
+    Kmedoids_Cos_result = pd.DataFrame({'concept':concepts,'clustering':Kmedoids_Cos_Clustering})
+    results['K-Medoids with Cosine'] = Kmedoids_Cos_result
 
     Spectral_NN_Clustering = Spectral_NN(embeddings, n_clusters, state)
-    Spectral_NN_result = dict(zip(concepts, Spectral_NN_Clustering))
-    results['Spectral Clustering NN'] = Spectral_NN_result
-
-    Spectral_RBF_Clustering = Spectral_RBF(embeddings, n_clusters, state)
-    Spectral_RBF_result = dict(zip(concepts, Spectral_RBF_Clustering))
-    results['Spectral Clustering RBF'] = Spectral_RBF_result
+    Spectral_NN_result = pd.DataFrame({'concept':concepts,'clustering':Spectral_NN_Clustering})
+    results['Spectral Clustering with NN'] = Spectral_NN_result
     
     return results
 

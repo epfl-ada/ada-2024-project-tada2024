@@ -4,12 +4,8 @@ import pickle
 from datetime import datetime
 from glob import glob
 
-from embedding_models.all_MiniLM_L6_v2 import All_MiniLM_L6_v2
-from embedding_models.all_mpnet_base_v2 import all_mpnet_base_v2
-from embedding_models.roberta import Roberta
 from tqdm import tqdm
-
-current_datetime = datetime.now().strftime("%Y%m%d_%H%M%S")
+from utils.embedding_models import All_MiniLM_L6_v2, Roberta, all_mpnet_base_v2
 
 
 def generate_embeddings(articles_dir, model):
@@ -26,20 +22,13 @@ def generate_embeddings(articles_dir, model):
 
 def save_embeddings(embeddings, output_dir, model_name, overwrite_latest=False):
     # Create embedding output directory
-    embeddings_output_dir = os.path.join(output_dir, model_name, current_datetime)
-    if not os.path.exists(embeddings_output_dir):
-        os.makedirs(embeddings_output_dir)
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
 
     # Save pkl embeddings in output dir
-    embeddings_output_path = os.path.join(embeddings_output_dir, "embeddings.pkl")
+    embeddings_output_path = os.path.join(output_dir, f"{model_name}.pkl")
     with open(embeddings_output_path, "wb") as file:
         pickle.dump(embeddings, file)
-
-    if overwrite_latest:
-        # Save pkl embeddings as the latest one
-        latest_embedding_output_path = os.path.join(output_dir, "latest_embeddings.pkl")
-        with open(latest_embedding_output_path, "wb") as file:
-            pickle.dump(embeddings, file)
 
 
 def parse_argumnets():

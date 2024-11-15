@@ -10,7 +10,7 @@ from selenium.webdriver.common.by import By
 from tqdm import tqdm
 from webdriver_manager.chrome import ChromeDriverManager
 
-from downloader import download_dataset
+from utils.downloader import download_dataset
 
 
 def extract_html_to_txt(
@@ -103,9 +103,7 @@ def get_artilces_to_parse(dataset_dir) -> list:
 
 
 def parse_argumnets():
-    parser = argparse.ArgumentParser(
-        description="Artile cleaning script."
-    )
+    parser = argparse.ArgumentParser(description="Artile cleaning script.")
 
     parser.add_argument(
         "--download",

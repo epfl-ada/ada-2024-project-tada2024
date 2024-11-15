@@ -11,3 +11,10 @@ torch==2.5.1
 tqdm==4.67.0
 transformers==4.46.2
 webdriver_manager==4.0.2
+
+sentencepiece
+wandb
+scikit-learn==1.5.2
+scikit-learn-extra==0.3.0
+setuptools
+ipykernel

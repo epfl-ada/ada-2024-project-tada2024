@@ -4,7 +4,7 @@ warnings.filterwarnings("ignore")
 
 import numpy as np
 import pandas as pd
-from sklearn.metrics import adjusted_rand_score, normalized_mutual_info_score
+from sklearn.metrics import f1_score, adjusted_rand_score, normalized_mutual_info_score
 
 
 def calculate_clustering_consistency(clustering_list):
@@ -79,4 +79,11 @@ def map_clustering_category(category_df, clustering_df):
     )
     accuracy = correct_matches / total_samples
 
-    return cluster_category_map, accuracy
+    # Calculate weighted F1 score for unique matches
+    category_cluster_map = {value: key for key, value in cluster_category_map.items()}
+    merged_df['category2cluster'] = merged_df['primary_category'].apply(lambda x: category_cluster_map[x])
+    y_true = merged_df['category2cluster'].tolist()
+    y_pred = merged_df['clustering'].tolist()
+    weighted_f1 = f1_score(y_true, y_pred, average='weighted')
+
+    return cluster_category_map, accuracy, weighted_f1

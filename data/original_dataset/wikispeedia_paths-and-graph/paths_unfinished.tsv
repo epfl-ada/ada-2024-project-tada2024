@@ -1,3 +1,20 @@
+# Unsuccessful (i.e., unfinished) Wikispeedia paths.
+# Article names are URL-encoded; e.g., in Java they can be decoded using java.net.URLDecoder.decode(articleName, "UTF-8").
+# Articles in a path are separated by ";".
+# Back clicks are represented as "<".
+# There are two types of quitting:
+# (1) "timeout" means that no click was made for 30 minutes;
+# (2) "restart" means that the user started a new game without finishing the current one.
+# FORMAT:   hashedIpAddress   timestamp   durationInSec   path   target   type
+#
+# When publishing on this data set, please cite:
+# (1) Robert West and Jure Leskovec:
+#     Human Wayfinding in Information Networks.
+#     21st International World Wide Web Conference (WWW), 2012.
+# (2) Robert West, Joelle Pineau, and Doina Precup:
+#     Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts.
+#     21st International Joint Conference on Artificial Intelligence (IJCAI), 2009.
+
 2426091a53125110	1297054935	1804	Obi-Wan_Kenobi	Microsoft	timeout
 26141fd878806294	1297055651	1805	Julius_Caesar	Caracas	timeout
 2b015fb8181c48f2	1297090819	1818	Malawi;Democracy;Alexander_the_Great	First_Crusade	timeout

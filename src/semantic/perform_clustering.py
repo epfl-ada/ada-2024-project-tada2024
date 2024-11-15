@@ -7,6 +7,9 @@ from tqdm import tqdm
 
 from utils.clustering_methods import Kmeans_Raw, Kmedoids_Man, Kmedoids_Cos, Spectral_NN
 
+from src.semantic.utils.pca import reduce_with_pca
+
+
 
 def read_embeddings(file_path):
     with open(file_path, "rb") as file:
@@ -53,7 +56,8 @@ def run_all_clustering(embedding_file, category_file, state=520):
     # Calculate the number of clusters based on the primary categories in the category file
     n_clusters = calculate_n_clusters(category_file)
 
-    # Store the results in a dictionary
+
+def perform_clusterings(embeddings, concepts, n_clusters, state):
     results = {}
 
     methods = {
@@ -69,7 +73,18 @@ def run_all_clustering(embedding_file, category_file, state=520):
         results[method_name] = pd.DataFrame({"concept": concepts, "clustering": result})
 
     return results
-
+  
+def run_all_clustering(embedding_file, category_file, state=520):
+    concepts, embeddings = read_embeddings(embedding_file)
+    n_clusters = calculate_n_clusters(category_file)
+    return perform_clusterings(embeddings, concepts, n_clusters, state)
+    
+def run_all_clustering_with_pca(embedding_file, category_file, state=520):
+    concepts, embeddings = read_embeddings(embedding_file)
+    n_clusters = calculate_n_clusters(category_file)
+    new_embeddings = reduce_with_pca(embeddings, verbose=True)
+    return perform_clusterings(new_embeddings, concepts, n_clusters, state)
+    
 
 def parse_argumnets():
     parser = argparse.ArgumentParser(description="Clustering script.")

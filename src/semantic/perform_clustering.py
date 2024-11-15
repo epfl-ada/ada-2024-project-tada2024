@@ -5,12 +5,7 @@ import pickle
 import pandas as pd
 from tqdm import tqdm
 
-from utils.clustering_methods import (
-    Kmeans_Raw,
-    Kmedoids_Man,
-    Kmedoids_Cos,
-    Spectral_NN
-)
+from utils.clustering_methods import Kmeans_Raw, Kmedoids_Man, Kmedoids_Cos, Spectral_NN
 
 from sklearn_extra.cluster import KMedoids
 
@@ -73,18 +68,25 @@ def run_all_clustering(embedding_file, category_file, state=520):
     # Run each clustering method and transfer the result into dict
     for method_name, method in tqdm(methods.items()):
         result = method(embeddings, n_clusters, state)
-        result = dict(zip(concepts, result))
-        results[method_name] = result
+        results[method_name] = pd.DataFrame({"concept": concepts, "clustering": result})
 
     return results
+
 
 def parse_argumnets():
     parser = argparse.ArgumentParser(description="Clustering script.")
 
     parser.add_argument(
+        "--embedding_model_name",
+        type=str,
+        default="all_mpnet_base_v2",
+        help="The name of the embedding model (default: %(default)s)",
+    )
+
+    parser.add_argument(
         "--embeddings_path",
         type=str,
-        default="./data/semantic/output/embeddings/latest.pkl",
+        default="./data/semantic/output/embeddings",
         help="Directory to store embeddings (default: %(default)s)",
     )
 
@@ -106,17 +108,17 @@ def parse_argumnets():
 
 def run_kimchi_cos(embedding_file, category_file, state=520):
     concepts, embeddings = read_embeddings(embedding_file)
-    
+
     n_clusters = calculate_n_clusters(category_file)
- 
-    kmedoids = KMedoids(n_clusters=n_clusters, metric='cosine', random_state=state)
+
+    kmedoids = KMedoids(n_clusters=n_clusters, metric="cosine", random_state=state)
     kmedoids.fit(embeddings)
 
     cluster_info = []
 
     for i in range(n_clusters):
         medoid_index = kmedoids.medoid_indices_[i]
-        
+
         medoid_concept = concepts[medoid_index]
         medoid_embedding = embeddings[medoid_index]
 
@@ -125,23 +127,28 @@ def run_kimchi_cos(embedding_file, category_file, state=520):
         member_concepts = [concepts[j] for j in cluster_indices]
         member_embeddings = [embeddings[j] for j in cluster_indices]
 
-        cluster_info.append({
-            'center_name': medoid_concept,
-            'cluster_size': len(member_concepts),
-            'member_names': member_concepts,
-            'center_embed': medoid_embedding,
-            'member_embeds': member_embeddings,
-        })
+        cluster_info.append(
+            {
+                "center_name": medoid_concept,
+                "cluster_size": len(member_concepts),
+                "member_names": member_concepts,
+                "center_embed": medoid_embedding,
+                "member_embeds": member_embeddings,
+            }
+        )
 
     df = pd.DataFrame(cluster_info)
 
     return df
 
+
 if __name__ == "__main__":
     args = parse_argumnets()
 
     # Define file paths
-    embedding_file = args.embeddings_path  # Path to the embedding data file
+    embedding_file = os.path.join(
+        args.embeddings_path, f"{args.embedding_model_name}.pkl"
+    )  # Path to the embedding data file
     category_file = os.path.join(
         args.dataset, "wikispeedia_paths-and-graph\categories.tsv"
     )  # Path to the category data file

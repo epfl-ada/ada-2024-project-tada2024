@@ -30,6 +30,7 @@ def save_embeddings(embeddings, output_dir, model_name, overwrite_latest=False):
     with open(embeddings_output_path, "wb") as file:
         pickle.dump(embeddings, file)
 
+
 def parse_argumnets():
     parser = argparse.ArgumentParser(description="Embedding Generator script.")
 

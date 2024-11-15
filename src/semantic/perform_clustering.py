@@ -87,7 +87,7 @@ def parse_argumnets():
     parser.add_argument(
         "--embeddings_path",
         type=str,
-        default="./data/semantic/output/embeddings/all_MiniLM_L6_v2.pkl",
+        default="./data/semantic/output/embeddings/latest.pkl",
         help="Directory to store embeddings (default: %(default)s)",
     )
 

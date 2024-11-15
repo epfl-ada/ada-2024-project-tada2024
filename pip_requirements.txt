@@ -14,3 +14,4 @@ scikit-learn-extra==0.3.0
 pandas
 setuptools
 ipykernel
+nltk

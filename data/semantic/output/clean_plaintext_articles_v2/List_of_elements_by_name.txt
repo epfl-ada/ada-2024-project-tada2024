@@ -1,0 +1,1 @@
+list chemic element , sort name colour code accord type element . given element 's element symbol , atom number , atom mass stabl isotop , group period number period tabl .

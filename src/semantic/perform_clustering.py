@@ -14,6 +14,8 @@ from utils.clustering_methods import (
     Spectral_RBF,
 )
 
+from sklearn_extra.cluster import KMedoids
+
 
 def read_embeddings(file_path):
     with open(file_path, "rb") as file:
@@ -80,7 +82,6 @@ def run_all_clustering(embedding_file, category_file, state=520):
 
     return results
 
-
 def parse_argumnets():
     parser = argparse.ArgumentParser(description="Clustering script.")
 
@@ -107,7 +108,39 @@ def parse_argumnets():
     return parser.parse_args()
 
 
-# Main block to execute when the script is run directly
+def run_kimchi_cos(embedding_file, category_file, state=520):
+    concepts, embeddings = read_embeddings(embedding_file)
+    
+    n_clusters = calculate_n_clusters(category_file)
+ 
+    kmedoids = KMedoids(n_clusters=n_clusters, metric='cosine', random_state=state)
+    kmedoids.fit(embeddings)
+
+    cluster_info = []
+
+    for i in range(n_clusters):
+        medoid_index = kmedoids.medoid_indices_[i]
+        
+        medoid_concept = concepts[medoid_index]
+        medoid_embedding = embeddings[medoid_index]
+
+        cluster_indices = [j for j, label in enumerate(kmedoids.labels_) if label == i]
+
+        member_concepts = [concepts[j] for j in cluster_indices]
+        member_embeddings = [embeddings[j] for j in cluster_indices]
+
+        cluster_info.append({
+            'center_name': medoid_concept,
+            'cluster_size': len(member_concepts),
+            'member_names': member_concepts,
+            'center_embed': medoid_embedding,
+            'member_embeds': member_embeddings,
+        })
+
+    df = pd.DataFrame(cluster_info)
+
+    return df
+
 if __name__ == "__main__":
     args = parse_argumnets()
 

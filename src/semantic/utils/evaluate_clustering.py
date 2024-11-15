@@ -85,5 +85,6 @@ def map_clustering_category(category_df, clustering_df):
     y_true = merged_df['category2cluster'].tolist()
     y_pred = merged_df['clustering'].tolist()
     weighted_f1 = f1_score(y_true, y_pred, average='weighted')
+    micro_f1 = f1_score(y_true, y_pred, average='micro')
 
-    return cluster_category_map, accuracy, weighted_f1
+    return cluster_category_map, accuracy, weighted_f1, micro_f1

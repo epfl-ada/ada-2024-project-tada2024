@@ -1,0 +1,38 @@
+Lanthanum ( IPA: /ˈlanθənəm/ ) is a chemical element in the periodic table that has the symbol La and atomic number 57.
+## Notable characteristics
+Lanthanum is a silvery white metallic element belonging to group 3 of the periodic table and often considered to be one of the lanthanides. Found in some rare-earth minerals, usually in combination with cerium and other rare earth elements. Lanthanum is malleable, ductile, and soft enough to be cut with a knife. It is one of the most reactive of the rare-earth metals. The metal reacts directly with elemental carbon , nitrogen , boron , selenium , silicon , phosphorus , sulfur , and with halogens. It oxidizes rapidly when exposed to air. Cold water attacks lanthanum slowly, while hot water attacks it much more rapidly.
+## Applications
+Uses of lanthanum:
+Carbon lighting applications, especially by the motion picture industry for studio lighting and projection.
+La 2 O 3 improves the alkali resistance of glass , and is used in making special optical glasses, such as:
+Infrared absorbing glass.
+Camera and telescope lenses, because of the high refractive index and low dispersion of rare-earth glasses.
+Small amounts of lanthanum added to steel improves its malleability, resistance to impact and ductility.
+Small amounts of lanthanum added to iron helps to produce nodular cast iron.
+Small amounts of lanthanum added to molybdenum decreases the hardness of this metal and its sensitivity to temperature variations.
+Mischmetal, a pyrophoric alloy used e.g. in lighter flints, contains 25% to 45% lanthanum.
+Lanthanum oxide and the boride are used in electronic vacuum tubes as hot cathode materials with strong emissivity of electrons . Crystals of LaB 6 are used in high brightness, extended life, thermionic electron emission sources for scanning electron microscopes.
+in Gas tungsten arc welding electrodes, as a substitute for radioactive thorium .
+Hydrogen sponge alloys can contain lanthanum. These alloys are capable of storing up to 400 times their own volume of hydrogen gas in a reversible adsorption process.
+Petroleum cracking catalysts.
+Gas lantern mantles.
+Glass and lapidary polishing compound.
+La-Ba age dating of rocks and ores.
+Lanthanum carbonate is used medically as a phosphate binder for the treatment of hyperphosphatemia. See details below under Biological Role .
+Lanthanum nitrate is mainly applied in specialty glass, water treatment and catalyst.
+Cerium activated Lanthanum bromide is the recent inorganic scintillator which has a combination of high light yield and the best energy resolution.
+## History
+Lanthanum was discovered in 1839 by Swedish chemist Carl Gustav Mosander, when he partially decomposed a sample of cerium nitrate by heating and treating the resulting salt with dilute nitric acid. From the resulting solution, he isolated a new rare earth he called lantana . Lanthanum was isolated in relatively pure form in 1923.
+The word lanthanum comes from the Greek λανθανω [lanthanō] = to lie hidden.
+## Biological Role
+Lanthanum has no known biological role.
+The element is not absorbed orally, and when injected its elimination is very slow. Lanthanum carbonate was approved as a medication (Fosrenol®, Shire Pharmaceuticals) to absorb excess phosphate in cases of end-stage renal failure. Some rare-earth chlorides, such as lanthanum chloride (LaCl 3 ), are known to have anticoagulant properties.
+While Lanthanum has pharmacological effects on several receptors and ion channels its specificity for the GABA receptor is unique among divalent cations. Lanthanum acts at the same modulatory site on the GABAR as zinc- a known negative allosteric modulator. The Lanthanum cation La 3+ is a positive allosteric modulator at native and recombinant GABA receptors, increasing open channel time and decreasing desensitization in a subunit configuration dependant manner.
+## Occurrence
+Although lanthanum belongs to chemical elements group called rare earth metals, it is not rare at all. Lanthanum is available in relatively large quantities (32 ppm in Earth’s crust).
+Monazite (Ce, La, Th, Nd, Y)PO 4 , and bastnasite (Ce, La, Y)CO 3 F, are principal ores in which lanthanum occurs in percentages up to 25 to 38 percent.
+## Isotopes
+Naturally occurring lanthanum is composed of one stable ( 139 La) and one radioactive ( 138 La) isotope, with the stable isotope, 139 La, being the most abundant (99.91% natural abundance). 38 radioisotopes have been characterized with the most stable being 138 La with a half-life of 1.05×10 11 years, and 137 La with a half-life of 60,000 years. All of the remaining radioactive isotopes have half-lives that are less than 24 hours and the majority of these have half lives that are less than 1 minute. This element also has 3 meta states.
+The isotopes of lanthanum range in atomic weight from 117 u ( 117 La) to 155 u ( 155 La).
+## Precautions
+Lanthanum has a low to moderate level of toxicity, and should be handled with care. In animals, the injection of lanthanum solutions produces glycaemia, low blood pressure, degeneration of the spleen and hepatic alterations.

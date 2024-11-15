@@ -1,0 +1,15 @@
+This timeline of discovery of Solar System planets and their natural satellites charts the progress of the discovery of new bodies over history.
+Historically the naming of natural satellites did not always match the times of their discovery.
+In the following tables, planetary satellites are indicated in bold type (e.g. Moon ) while planets, major or minor, which directly circle the Sun are in italic type (e.g. Earth ). The tables are sorted by publication/announcement date. Dates are annotated with the following symbols:
+i: for date of first imaging (photography, etc.);
+o: for date of first human visual observation, either through telescope or on photographic plate (the true "discovery" moment);
+p: for date of announcement or publication.
+*Note: Marked moons had complicated discoveries. Several moons took several years to be confirmed, and in several cases were actually lost and rediscovered. Others were found in Voyager photographs years after they were taken.
+### Colour code
+The planets and their natural satellites are marked in the following colors:
+## Prehistory
+## 17th century
+## 18th century
+## 19th century
+## 20th century
+## 21st century

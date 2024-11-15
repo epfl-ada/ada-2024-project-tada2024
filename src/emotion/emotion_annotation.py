@@ -33,7 +33,7 @@ def process_csv(input_file):
     df = pd.read_csv(input_file, low_memory=False, index_col=0)
 
     # Remove anything after '.' and '.' itself in the first column (assuming it's the index column)
-    df.index = df.index.map(lambda x: str(x).split('.')[0] if isinstance(x, str) else x)
+    df.index = df.index.map(lambda x: '.'.join(str(x).split('.')[:-1]) if isinstance(x, str) and '.' in x else x)
 
     # Remove '( URL )' and preceding '[...]' in all other columns (excluding the first column)
     def remove_url(text):
@@ -46,7 +46,7 @@ def process_csv(input_file):
 
     # Save the cleaned CSV file
     df.to_csv(output_cleaned_file)
-    print(f"CSV processing complete. The cleaned file is saved as '{output_cleaned_file}'.")
+    print(f"CSV processing complete. And the cleaned file is saved as '{output_cleaned_file}'.")
 
     # Determine if GPU is available
     if torch.cuda.is_available():

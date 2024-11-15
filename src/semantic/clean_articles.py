@@ -68,7 +68,7 @@ def extract_html_to_txt(
             html_file.write(cleaned_html)
 
         # Load html file using chromium driver
-        driver.get(f"file:///{os.path.abspath("TMP.html")}")
+        driver.get(f"file:///{os.path.abspath('TMP.html')}")
 
         # Get plain text from chromium driver
         plain_text = ""

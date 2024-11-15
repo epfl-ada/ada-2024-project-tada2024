@@ -28,4 +28,4 @@ def reduce_with_pca(embeddings, pca_threshold=0.95, verbose=False):
         plt.show()
         print(f"Number of components explaining {pca_threshold*100}% of variance: {n_components}")
 
-    return embeddings
+    return reduced_embeddings

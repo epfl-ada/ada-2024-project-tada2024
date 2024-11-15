@@ -1,9 +1,17 @@
  
-from perform_clustering import read_embeddings
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
+import numpy as np
 
-def run_pca_kimchi_cos(embeddings, pca_threshold=0.95, verbose=False):
+def read_embeddings(file_path):
+
+    with open(file_path, 'rb') as file:
+        embedding_file = pickle.load(file)
+        concepts = list(embedding_file.keys())
+        embeddings = list(embedding_file.values())
+    return concepts, embeddings
+
+def reduce_with_pca(embeddings, pca_threshold=0.95, verbose=False):
     pca = PCA()
     pca_embeddings = pca.fit_transform(embeddings)
 

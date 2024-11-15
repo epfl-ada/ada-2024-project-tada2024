@@ -8,6 +8,8 @@ from src.semantic.utils.clustering_methods import (
     Spectral_NN
 )
 
+from src.semantic.utils.pca import reduce_with_pca
+
 def read_embeddings(file_path):
 
     with open(file_path, 'rb') as file:
@@ -28,17 +30,11 @@ def calculate_n_clusters(file_path):
     n_clusters = len(category_df['primary_category'].unique())
     return n_clusters
 
-def run_all_clustering(embedding_file, category_file, state=520):
-    # Read concepts and embedding values from the embedding file
-    concepts, embeddings = read_embeddings(embedding_file)
-    
-    # Calculate the number of clusters based on the primary categories in the category file
-    n_clusters = calculate_n_clusters(category_file)
 
-    # Store the results in a dictionary
+
+def perform_clusterings(embeddings, concepts, n_clusters, state):
     results = {}
 
-    # Run each clustering method and transfer the result into dict
     Kmeans_Raw_Clustering = Kmeans_Raw(embeddings, n_clusters, state)
     Kmeans_Raw_result = pd.DataFrame({'concept':concepts,'clustering':Kmeans_Raw_Clustering})
     results['K-Means'] = Kmeans_Raw_result
@@ -56,6 +52,19 @@ def run_all_clustering(embedding_file, category_file, state=520):
     results['Spectral Clustering with NN'] = Spectral_NN_result
     
     return results
+
+
+def run_all_clustering(embedding_file, category_file, state=520):
+    concepts, embeddings = read_embeddings(embedding_file)
+    n_clusters = calculate_n_clusters(category_file)
+    return perform_clusterings(embeddings, concepts, n_clusters, state)
+    
+def run_all_clustering_with_pca(embedding_file, category_file, state=520):
+    concepts, embeddings = read_embeddings(embedding_file)
+    n_clusters = calculate_n_clusters(category_file)
+    new_embeddings = reduce_with_pca(embeddings, verbose=True)
+    return perform_clusterings(new_embeddings, concepts, n_clusters, state)
+    
 
 # Main block to execute when the script is run directly
 if __name__ == "__main__":

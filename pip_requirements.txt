@@ -1,12 +1,17 @@
-datasets==2.18.0
-transformers>=4.39.3
-sentencepiece>=0.2.0
-scipy>=1.13.0
-matplotlib>=3.8.4
-wandb==0.17.2
-numpy
-beautifulsoup4>=4.12.3
-sentence_transformers>=3.2.1
-tqdm>=4.67.0
+transformers
+sentencepiece
+scipy
+matplotlib
+wandb
+numpy < 2.0.0
+beautifulsoup4
+sentence_transformers
+tqdm
 webdriver_manager
 selenium
+scikit-learn==1.5.2
+scikit-learn-extra==0.3.0
+pandas
+setuptools
+ipykernel
+nltk

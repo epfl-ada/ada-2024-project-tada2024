@@ -3,15 +3,21 @@ import os
 import shutil
 from glob import glob
 
+import nltk
 from bs4 import BeautifulSoup
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer, WordNetLemmatizer
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from tqdm import tqdm
+from utils.downloader import download_dataset
 from webdriver_manager.chrome import ChromeDriverManager
 
-from downloader import download_dataset
-
+# Download necessary NLTK resources
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt_tab')
 
 def extract_html_to_txt(
     source_folder: str, output_folder: str, valid_article_names: list
@@ -68,7 +74,7 @@ def extract_html_to_txt(
             html_file.write(cleaned_html)
 
         # Load html file using chromium driver
-        driver.get(f"file:///{os.path.abspath("TMP.html")}")
+        driver.get(f"file:///{os.path.abspath('TMP.html')}")
 
         # Get plain text from chromium driver
         plain_text = ""
@@ -76,7 +82,21 @@ def extract_html_to_txt(
             plain_text = driver.find_element(By.ID, "bodyContent").text
         except:
             failed_extracts.append(article_name)
+            continue
 
+        # Lemmatization + stemming + stopword removal
+        stop_words = set(stopwords.words('english'))
+        lemmatizer = WordNetLemmatizer()
+        stemmer = PorterStemmer()
+
+        words = nltk.word_tokenize(plain_text)
+        filtered_words = [word for word in words if word.lower() not in stop_words]
+        lemmatized_words = [lemmatizer.lemmatize(word) for word in filtered_words]
+        stemmed_words = [stemmer.stem(word) for word in lemmatized_words]
+
+        # Combine back into a single string
+        plain_text = ' '.join(stemmed_words)
+        
         # Save plain text
         with open(output_file_path, "w", encoding="utf-8") as txt_file:
             txt_file.write(plain_text)
@@ -103,9 +123,7 @@ def get_artilces_to_parse(dataset_dir) -> list:
 
 
 def parse_argumnets():
-    parser = argparse.ArgumentParser(
-        description="Artile cleaning script."
-    )
+    parser = argparse.ArgumentParser(description="Artile cleaning script.")
 
     parser.add_argument(
         "--download",

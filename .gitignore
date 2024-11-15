@@ -162,4 +162,9 @@ cython_debug/
 #.idea/
 
 # dataset
+# data/wikispeedia/
+
+.DS_Store
+data/
+
 data/wikispeedia/wpcd

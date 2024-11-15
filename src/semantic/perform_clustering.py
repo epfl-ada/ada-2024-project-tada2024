@@ -7,11 +7,9 @@ from tqdm import tqdm
 
 from utils.clustering_methods import (
     Kmeans_Raw,
-    Kmedoids_Cos,
-    Kmedoids_Euc,
     Kmedoids_Man,
-    Spectral_NN,
-    Spectral_RBF,
+    Kmedoids_Cos,
+    Spectral_NN
 )
 
 from sklearn_extra.cluster import KMedoids
@@ -67,11 +65,9 @@ def run_all_clustering(embedding_file, category_file, state=520):
 
     methods = {
         "K-Means": Kmeans_Raw,
-        "K-Medoids_Euclidean": Kmedoids_Euc,
         "K-Medoids_Manhattan": Kmedoids_Man,
         "K-Medoids_Cosine": Kmedoids_Cos,
         "Spectral_Clustering_NN": Spectral_NN,
-        "Spectral_Clustering_RBF": Spectral_RBF,
     }
 
     # Run each clustering method and transfer the result into dict

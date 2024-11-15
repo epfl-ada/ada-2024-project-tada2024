@@ -1,13 +1,11 @@
 import argparse
 import os
 import pickle
-
 import pandas as pd
+from sklearn_extra.cluster import KMedoids
 from tqdm import tqdm
 
 from utils.clustering_methods import Kmeans_Raw, Kmedoids_Man, Kmedoids_Cos, Spectral_NN
-
-from sklearn_extra.cluster import KMedoids
 
 
 def read_embeddings(file_path):

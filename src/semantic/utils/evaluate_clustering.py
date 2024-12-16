@@ -4,7 +4,9 @@ warnings.filterwarnings("ignore")
 
 import numpy as np
 import pandas as pd
+from sklearn.metrics import confusion_matrix
 from sklearn.metrics import f1_score, adjusted_rand_score, normalized_mutual_info_score
+from scipy.spatial.distance import cdist
 
 
 def calculate_clustering_consistency(clustering_list):
@@ -41,6 +43,70 @@ def get_primary_category(file_path):
     category_df = category_df[["concept", "primary_category"]]
     return category_df
 
+def calculate_purity(y_true, y_pred):
+    # Create a confusion matrix
+    contingency_matrix = confusion_matrix(y_true, y_pred)
+
+    # For each cluster, take the maximum number of correctly assigned labels
+    majority_sum = np.sum(np.max(contingency_matrix, axis=0))
+
+    # Divide by the total number of samples to get the purity
+    purity = majority_sum / np.sum(contingency_matrix)
+    
+    return purity
+
+def calculate_entropy(labels, clusters, num_classes):
+    clusters = np.array(clusters)
+    labels = np.array(labels)
+    total_samples = len(labels)
+    total_entropy = 0
+
+    for cluster in np.unique(clusters):
+        cluster_indices = np.where(clusters == cluster)[0]
+        cluster_labels = labels[cluster_indices]
+        cluster_size = len(cluster_labels)
+        
+        # Calculate proportion of each class in the cluster
+        proportions = np.array([np.sum(cluster_labels == cls) / cluster_size for cls in range(num_classes)])
+        proportions = proportions[proportions > 0]  # Ignore zero proportions
+        
+        # Calculate entropy for the cluster
+        cluster_entropy = -np.sum(proportions * np.log2(proportions))
+        total_entropy += (cluster_size / total_samples) * cluster_entropy
+
+    return total_entropy
+
+def calculate_cluster_distances(data, labels, num_clusters):
+    cluster_centers = []
+    intra_cluster_distances = []
+
+    # Calculate cluster centers and intra-cluster distances
+    for cluster_id in range(num_clusters):
+        cluster_points = data[labels == cluster_id]  # Extract points in the current cluster
+        if len(cluster_points) > 0:
+            cluster_center = cluster_points.mean(axis=0)  # Compute cluster center
+            cluster_centers.append(cluster_center)
+
+            # Compute distances within the cluster (point-to-center distances)
+            intra_distances = cdist(cluster_points, [cluster_center])  # Pairwise distances
+            intra_cluster_distances.append(np.mean(intra_distances))
+        else:
+            # Handle empty clusters if they exist
+            cluster_centers.append(np.zeros(data.shape[1]))
+            intra_cluster_distances.append(0.0)
+
+    # Convert cluster centers to a NumPy array
+    cluster_centers = np.array(cluster_centers)
+
+    # Compute inter-cluster distances
+    inter_cluster_distances = cdist(cluster_centers, cluster_centers)  # Pairwise distances between centers
+    np.fill_diagonal(inter_cluster_distances, 0)  # Ignore self-distances
+
+    # Average distances
+    avg_inter_cluster_distance = np.sum(inter_cluster_distances) / (num_clusters * (num_clusters - 1))
+    avg_intra_cluster_distance = np.mean(intra_cluster_distances)
+
+    return avg_inter_cluster_distance, avg_intra_cluster_distance
 
 def map_clustering_category(category_df, clustering_df):
     # Merge the clustering results with primary categories
@@ -84,6 +150,9 @@ def map_clustering_category(category_df, clustering_df):
     merged_df['category2cluster'] = merged_df['primary_category'].apply(lambda x: category_cluster_map[x])
     y_true = merged_df['category2cluster'].tolist()
     y_pred = merged_df['clustering'].tolist()
-    weighted_f1 = f1_score(y_true, y_pred, average='weighted')
 
-    return cluster_category_map, accuracy, weighted_f1
+    weighted_f1 = f1_score(y_true, y_pred, average='weighted')
+    purity_score = calculate_purity(y_true, y_pred)
+    entropy = calculate_entropy(y_true, y_pred, 15)
+
+    return cluster_category_map, merged_df, accuracy, weighted_f1, purity_score, entropy

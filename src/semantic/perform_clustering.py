@@ -5,8 +5,7 @@ import pandas as pd
 from sklearn_extra.cluster import KMedoids
 from tqdm import tqdm
 
-from utils.clustering_methods import Kmeans_Raw, Kmedoids_Man, Kmedoids_Cos, Spectral_NN
-
+from utils.clustering_methods import Kmedoids_Man, Kmedoids_Cos
 from src.semantic.utils.pca import reduce_with_pca
 
 
@@ -61,10 +60,8 @@ def perform_clusterings(embeddings, concepts, n_clusters, state):
     results = {}
 
     methods = {
-        "K-Means": Kmeans_Raw,
         "K-Medoids_Manhattan": Kmedoids_Man,
         "K-Medoids_Cosine": Kmedoids_Cos,
-        "Spectral_Clustering_NN": Spectral_NN,
     }
 
     # Run each clustering method and transfer the result into dict

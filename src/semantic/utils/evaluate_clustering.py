@@ -155,4 +155,36 @@ def map_clustering_category(category_df, clustering_df):
     purity_score = calculate_purity(y_true, y_pred)
     entropy = calculate_entropy(y_true, y_pred, 15)
 
-    return cluster_category_map, merged_df, accuracy, weighted_f1, purity_score, entropy
+    return cluster_category_map, merged_df, purity_score, entropy
+
+
+def calculate_cluster_distances(data, labels, num_clusters):
+    data = data.astype(np.float64)  # Ensure high precision
+    cluster_centers = []
+    intra_cluster_distances = []
+
+    # Calculate cluster centers and intra-cluster distances
+    for cluster_id in range(num_clusters):
+        cluster_points = data[labels == cluster_id]
+        if len(cluster_points) > 0:
+            cluster_center = cluster_points.mean(axis=0)
+            cluster_centers.append(cluster_center)
+            intra_distances = cdist(cluster_points, [cluster_center])
+            intra_cluster_distances.append(np.mean(intra_distances))
+        else:
+            # Handle empty clusters
+            cluster_centers.append(np.zeros(data.shape[1]))
+            intra_cluster_distances.append(0.0)
+
+    cluster_centers = np.array(cluster_centers)
+
+    # Check for empty clusters and ensure valid distances
+    if len(cluster_centers) > 1:
+        inter_cluster_distances = cdist(cluster_centers, cluster_centers)
+        np.fill_diagonal(inter_cluster_distances, 0)
+        avg_inter_cluster_distance = np.sum(inter_cluster_distances) / (num_clusters * (num_clusters - 1))
+    else:
+        avg_inter_cluster_distance = 0.0
+
+    avg_intra_cluster_distance = np.mean(intra_cluster_distances)
+    return avg_inter_cluster_distance, avg_intra_cluster_distance

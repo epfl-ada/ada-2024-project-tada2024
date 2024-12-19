@@ -221,3 +221,31 @@ def visualize_distance_graph(
     plt.tight_layout()
     plt.show()
 
+
+
+
+import matplotlib.pyplot as plt
+
+def plot_distances_along_path(CUT_LENGTH=12):
+    path_semantic_distances = pd.read_csv('data/semantic/semantic_paper.csv')
+    with pd.option_context('future.no_silent_downcasting', True):
+        filled_semantic_distances = path_semantic_distances.fillna(-1).infer_objects(copy=False)
+
+    max_distance = np.nanmax(filled_semantic_distances.values)
+    normalised_distances = filled_semantic_distances.div(max_distance)
+
+    normalised_distances = normalised_distances.mask(normalised_distances < 0, None)
+    plt.figure(figsize=(10, 6))
+
+    for _, row in normalised_distances.iterrows():
+        steps = range(CUT_LENGTH)
+        plt.plot(steps, list(row)[:CUT_LENGTH], marker='o', linestyle='-', markersize=4)
+
+
+    plt.title('Semantic Variations between Articles Along Paths of Wikispeedia')
+    plt.xlabel('Number of Clicked Links')
+    plt.ylabel('Normalised Semantic Distance between Articles')
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
+

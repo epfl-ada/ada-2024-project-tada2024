@@ -5,10 +5,7 @@ import ast
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import nltk
 from collections import defaultdict
-from nltk.stem import WordNetLemmatizer
-from nltk.tokenize import word_tokenize
 from bs4 import BeautifulSoup
 from scipy.stats import pearsonr
 
@@ -132,10 +129,3 @@ def process_backtracking_paths(paths_backtracking, unweighted_emotion, sentences
         print(f"Weighted emotions for each step in all paths have been calculated and saved to '{output_file}'")
 
 
-
-
-
-if __name__ == "__main__":
-    extract_sentences()
-    generate_link_freq_dict()
-    generate_weighted_emotions()

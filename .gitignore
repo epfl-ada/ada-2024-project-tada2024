@@ -165,6 +165,7 @@ cython_debug/
 # data/wikispeedia/
 
 .DS_Store
-data/
+data/emotion/*
+data/original_dataset/*
+data/semantic/*
 
-data/wikispeedia/wpcd

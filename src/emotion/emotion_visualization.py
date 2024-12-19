@@ -64,45 +64,54 @@ def show_paths_lengths(df, start_step=1, end_step=20):
         print(f"Length of paths {i+1}: {count}")
 
 # Plots paths for each length on separate plots and adds a black line for the average of random samples.
-def plot_paths_with_random_samples(paths_df, emotion_label, lengths=range(4, 7)):
+import matplotlib.pyplot as plt
+import pandas as pd
+
+def plot_paths_with_random_samples(paths_df, emotion_label, lengths=[5, 7, 9]):
     """
-    Plots paths for each length on separate plots and adds a black line for the average of random samples.
+    Creates 3x10 plots: one for each sampled path across the specified lengths.
+    Each plot highlights one path in black, with the others in gray.
     """
     for length in lengths:
+        # Define current and next step columns based on the length
         current_step = f"Step_{length - 1}"
-
         next_step = f"Step_{length}"
+        
+        # Filter paths matching the length criteria
         valid_df = paths_df[
             paths_df[current_step].notna() &
             paths_df[next_step].isna()
         ]
 
+        # Randomly sample 10 rows (or fewer if not enough rows)
+        sampled_df = valid_df.sample(min(5, len(valid_df)), random_state=42)
+        
+        # Create a plot for each sampled path
+        for idx, row in sampled_df.iterrows():
+            fig, ax = plt.subplots(figsize=(10, 6))
 
-        # Randomly sample 10 rows (or all rows if fewer than 10)
-        sampled_df = valid_df.sample(min(10, len(valid_df)), random_state=42) # Set random_state for same as semantic
+            # Plot all other paths in gray
+            for _, other_row in sampled_df.iterrows():
+                if (other_row == row).all():  # Skip the highlighted path
+                    continue
+                steps = other_row.drop(labels=['target']).dropna().astype(float)
+                x = range(1, len(steps) + 1)
+                ax.plot(x, steps, color='gray', alpha=0.5)
 
-        # Create a new plot for the current size
-        fig, ax = plt.subplots(figsize=(10, 6))
+            # Plot the current path in black
+            highlighted_steps = row.drop(labels=['target']).dropna().astype(float)
+            x_highlighted = range(1, len(highlighted_steps) + 1)
+            ax.plot(x_highlighted, highlighted_steps, color='black', linewidth=2, label='Highlighted Path')
 
-        # Plot individual sampled paths
-        for _, row in sampled_df.iterrows():
-            steps = row.drop(labels=['target']).dropna().astype(float)
-            x = range(1, len(steps) + 1)
-            ax.plot(x, steps, color='gray', alpha=0.5)
+            ax.set_title(f'Length {length} - Path {idx + 1} - Weighted Emotion Scores ({emotion_label})')
+            ax.set_xlabel('Step')
+            ax.set_ylabel('Emotion Score')
+            ax.grid(True)
+            ax.legend()
 
-        # Compute and plot the average path for the sample
-        avg_path = sampled_df.drop(columns=['target']).mean(axis=0, skipna=True)
-        avg_x = range(1, len(avg_path.dropna()) + 1)
-        ax.plot(avg_x, avg_path.dropna(), color='black', linewidth=2, label='Average Path')
+            plt.tight_layout()
+            plt.show()
 
-        ax.set_title(f'Length {length} - Weighted Emotion Scores ({emotion_label})')
-        ax.set_xlabel('Step')
-        ax.set_ylabel('Emotion Score')
-        ax.grid(True)
-        ax.legend()
-
-        plt.tight_layout()
-        plt.show()
 
 
 # Function to calculate the correlation and p-value between two emotions for a single path

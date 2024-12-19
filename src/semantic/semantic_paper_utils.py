@@ -124,26 +124,3 @@ def process_wikispeedia_data(articles_file_path, paths_file_path, links_file_pat
 
     return 
     
-def save_distance_along_paths(d, processed_path):
-'''
-using the provided paths and distance fonction this generates a dataframe
-with a column for each user click and a row for each path
-cells contain the semantic distance between articles along the path
-'''
-    all_distances = []
-    max_length = 0 
-    
-    for path in processed_paths:
-        distances = [d.get((path[i-1], path[i]), None) for i in range(1, len(path))]
-        max_length = max(max_length, len(distances))
-    
-    for path in processed_paths:
-        distances = [d.get((path[i-1], path[i]), None) for i in range(1, len(path))]
-        distances += [None] * (max_length - len(distances))
-        all_distances.append(distances)
-        
-    
-    path_semantic_distances = pd.DataFrame(all_distances, columns=[f'Step_{i+1}' for i in range(max_length)])
-    path_semantic_distances.to_csv('path_distances.csv', index=False)
-    return
-

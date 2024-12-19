@@ -119,40 +119,45 @@ def analyze_semantic_distances(mpnet_embedding, file_path):
     path_data = pd.DataFrame({'length': path_lengths, 'distances': path_distances})
 
     # Filter paths to include only specified lengths and sample 10 paths for each length
-    filtered_lengths = [3, 4, 5, 6, 7, 8, 9]
+    filtered_lengths = [5, 7, 9]
     sampled_paths = (
         path_data[path_data['length'].isin(filtered_lengths)]
         .groupby('length')
-        .apply(lambda x: x.sample(min(len(x), 10), random_state=42))
+        .apply(lambda x: x.sample(min(len(x), 5), random_state=42))
         .reset_index(drop=True)
     )
 
     # Visualization
     unique_lengths = sorted(sampled_paths['length'].unique())
 
-    plt.figure(figsize=(12, 20))
+    plt.figure(figsize=(15, 30))
 
-    for idx, length in enumerate(unique_lengths):
-        plt.subplot(len(unique_lengths), 1, idx + 1)
-        plt.title(f"Series {idx + 1} (Path Length {length})")
-
+    plot_idx = 1
+    for length in unique_lengths:
         # Extract paths of this length
         length_group = sampled_paths[sampled_paths['length'] == length]['distances']
 
-        # Plot sampled paths
-        for distances in length_group:
-            plt.plot(distances, color='gray', alpha=0.5)
+        # Plot sampled paths with individual highlighting
+        for i, distances in enumerate(length_group):
+            plt.subplot(len(unique_lengths) * 10, 1, plot_idx)
+            plt.title(f"Path Length {length}, Highlight {i + 1}")
 
-        # Highlight the average path
-        avg_distances = np.mean(length_group.tolist(), axis=0)
-        plt.plot(avg_distances, color='black', linewidth=2)
+            # Plot all paths in gray
+            for d in length_group:
+                plt.plot(d, color='gray', alpha=0.5)
 
-        plt.xlim(0, length - 1)
-        plt.ylabel('Semantic Distance')
+            # Highlight the current path in black
+            plt.plot(distances, color='black', linewidth=2)
+
+            plt.xlim(0, length - 1)
+            plt.ylabel('Semantic Distance')
+
+            plot_idx += 1
 
     plt.xlabel('Path Steps')
     plt.tight_layout()
     plt.show()
 
     return distance_df, path_df, sampled_paths
+
 

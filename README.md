@@ -122,36 +122,29 @@ python ./src/semantic/perform_clustering.py --embedding_model_name "all_mpnet_ba
 
 ## Project Structure
 
-The directory structure of new project looks like this:
+The directory structure of the project ():
 
 ```
-.
-├── README.md
-├── data
-│   ├── semantic
-│   │   └── output
-│   │       ├── clean_plaintext_articles	-> contains cleaned articles from HTML files
-│   │       ├── clustering			-> contains results of clusterings for each embedding model
-│   │       │   ├── all_MiniLM_L6_v2.pkl
-│   │       │   ├── all_mpnet_base_v2.pkl
-│   │       │   └── roberta.pkl
-│   │       └── embeddings			-> contains embeddings of articles using different models
-│   │           ├── all_MiniLM_L6_v2.pkl
-│   │           ├── all_mpnet_base_v2.pkl
-│   │           └── roberta.pkl
-│   └── wikispeedia   				-> default directory to keep the original dataset
+ADA-2024-PROJECT-TADA2024/
+├── data/ (only important files of data are shown below)
+│   ├── emotion/ 			
+│   ├── original_dataset/			->
+│   └── semantic/			->
+├── src/
+│   ├── correlation/
+│   │   └── correlation_utils.py			->
+│   ├── emotion/
+│   │   ├── emotion_scores.py
+│   │   ├── emotion_utils.py
+│   │   └── emotion_visualization.py
+│   └── semantic/
+│       ├── semantic_paper_utils.py
+│       ├── semantic_paper_visualization.py
+│       ├── semantic_utils.py
+│       └── semantic_visualization.py
+├── .gitignore
 ├── pip_requirements.txt
-├── results.ipynb
-├── results_semantic.ipynb			-> notebook demonstrating the semantic results
-└── src						-> contains the source code
-    └── semantic
-        ├── clean_articles.py			-> script to clean HTML articles
-        ├── generate_embeddings.py		-> script to generate embeddings
-        ├── perform_clustering.py		-> script to perform clusterings
-        └── utils				-> contains utility source codes
-            ├── clustering_methods.py		-> source code of clustering methods
-            ├── downloader.py			-> source code and script to download dataset
-            ├── embedding_models.py		-> source code of embedding models
-            └── evaluate_clustering.py		-> source code of clustering evaluation functions
+├── README.md
+└── results.ipynb
 
 ```

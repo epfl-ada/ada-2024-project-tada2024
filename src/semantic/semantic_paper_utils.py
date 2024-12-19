@@ -118,8 +118,14 @@ def process_wikispeedia_data(articles_file_path, paths_file_path, links_file_pat
 
     # Plot
     plt.figure(figsize=(10, 6))
+    plt.xticks(
+        ticks=list(range(7)),
+        labels=[f"{i}/7" for i in reversed(range(1, 8))])
     plt.plot(avg_inf_gain)
     plt.grid(True)
+    plt.title("Change in Average Information Gain Along the Path")
+    plt.ylabel("Average Information Gain")
+    plt.xlabel("Normalized Distance to Goal")
     plt.show()
 
     return 

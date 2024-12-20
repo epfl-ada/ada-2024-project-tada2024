@@ -1,13 +1,6 @@
 # Emotion-Semantic Mapping through Wikipedia Article Transitions (M3 updated)
 
-## Team Contribution (M3 updated)
-- Ruyin Feng: Traditional Semantic Distance — exploring different embeddings, distance metrics, and clustering methods.
-- Nastaran Hashemi: Paper Semantic Distance — evaluation method for semantic distance based on academic papers.
-- Nathanael Lambert: Paper Semantic Distance — implementation of semantic distance methods derived from academic papers.
-- Weilun Xu: Emotion Distance — definition and implementation; Data Story — content development.
-- Haotian Fang: Correlation — analysis of the correlation between emotion and semantic distance; Data Story — frontend development.
-
-## Data Story (M3 updated)
+## Data Story
 https://fht-epfl.github.io/adawebsite/
 
 ## Abstract
@@ -118,3 +111,10 @@ ADA-2024-PROJECT-TADA2024/
 
 
 ```
+
+## Team Contribution (M3 updated)
+- Ruyin Feng: Traditional Semantic Distance — exploring different embeddings, distance metrics, and clustering methods.
+- Nastaran Hashemi: Paper Semantic Distance — evaluation method for semantic distance based on academic papers.
+- Nathanael Lambert: Paper Semantic Distance — implementation of semantic distance methods derived from academic papers.
+- Weilun Xu: Emotion Distance — definition and implementation; Data Story — content development.
+- Haotian Fang: Correlation — analysis of the correlation between emotion and semantic distance; Data Story — frontend development.

@@ -7,54 +7,50 @@
 - Weilun Xu: Emotion Distance — definition and implementation; Data Story — content development.
 - Haotian Fang: Correlation — analysis of the correlation between emotion and semantic distance; Data Story — frontend development.
 
+## Data Story (M3 updated)
+https://fht-epfl.github.io/adawebsite/
 
 ## Abstract
 
-This project explores the relationship between semantic changes and emotional fluctuations throughout human navigation paths on Wikispeedia. By combining semantic analysis techniques with emotional analysis based on a pre-trained emotion model, we aim to determine if and how certain semantic shifts induce specific types of emotions during the navigation process. The motivation is to understand the interplay between cognitive processing and emotional responses, offering insights into how people interact with information and potentially predicting emotional responses based on article structures.
+In today's digital age, where massive amounts of textual information are consumed, the interplay between semantics and emotions plays a critical role in shaping user experiences. This project examines the relationship between semantic transitions and emotional responses during navigation paths in the Wikispeedia game. By calculating semantic distances using text embeddings and analyzing emotion scores with a pre-trained emotion model, we explore how different types of semantic shifts evoke specific emotional responses. Through this, we aim to uncover patterns in emotional and cognitive engagement during navigation, contributing to user modeling and interaction design.
+
+
 
 ## Research Questions
 
-1. What is the relationship between semantic change and emotional fluctuation throughout human navigation paths?
-2. Which types of emotions are induced by specific semantic jumps (e.g., significant shifts in topic or intensity)?
-3. How does backtracking affect emotional progression in navigation paths?
-4. Is there a correlation between semantic distance and specific emotional fluctuations such as curiosity or surprise?
-5. Can we predict a user’s emotional response based on the sequence of articles they navigate through?
+1. How do semantic and emotional transitions interact during navigation paths?
+2. what patterns emerge in the semantic-emotion mapping alignment or divergence across different path lengths?
 
 ## Methods
 
-### Experiment with Text Embeddings and Distance Measures
+### Quantifying Semantic Changes
+We use information-theoretic and embedding-based approaches to calculate semantic distances between articles. Two distance measures are employed:
 
-The first step is to find an alternative approach to represent the semantic distance between concepts. This step is crucial because the representation of semantic distance directly impacts the subsequent analyses. We utilize various text embeddings and distance measures to calculate differences between embeddings. The embedding models we have selected are:
+- **Asymmetric Distance**: Reflects human-centric navigation choices based on Wikipedia transition data.
+- **Symmetric Distance**: Balances bidirectional relationships, suitable for clustering and overall similarity analyses.
 
-- MiniLM_L6_v2
-- mpnet_base_v2
+Text embeddings (MiniLM_L6_v2, MPNet) are processed using PCA to ensure dimensionality reduction while maintaining semantic integrity.
 
 
-### Determining the Most Suitable Semantic Distance
+### Measuring Emotional Fluctuations
 
-We applied clustering to select the optimal semantic distance measure for this analysis, prioritizing the measure that results in minimal clustering bias as our semantic distance indicator. During the evaluation step, we first analyzed the consistency of the embedding results through ARI (Adjusted Rand Index) and NMI (Normalized Mutual Information), and mapping clustering outputs to the distribution of article categories. From this mapping, we derived accuracy and F1 scores, which served as key metrics for identifying the most effective semantic distance measure. We also experimented with using PCA for data dimensionality reduction. Furthermore, we extracted meaning for K-Medoids by looking at the name and primary category of the center. All these results will serve as a foundation for selecting the most suitable semantic distance. The distance measures and corresponding clustering models we have selected are:
+An emotion prediction model generates emotion scores per article. The emotional impact of navigation links is weighted based on:
 
-| Distance measure       | Corresponding clustering method |
-|------------------------|---------------------------------|
-| Manhattan Distance     | K-Medoids                       |
-| Cosine Distance        | K-Medoids                       |
+- **Hyperlink Attention**: Focused on links most likely to guide users toward their target.
 
-In addition to the methods mentioned in this table, we also performed Spectral Clustering to enhance the credibility and validation of the evaluation results.
+- **Sentence Weighting**: Assigns higher importance to linked content.
+This allows emotion metrics to reflect nuanced user interactions.
 
-### Define and Calculate Emotion Scores
+### Correlation and Case Study
 
-We used a benchmarked emotion prediction model to generate emotion scores, which output 28 types of emotion scores. Our approach considers human attention span and cognitive aspects of reading behavior:
+Semantic and emotional transitions are analyzed for correlations using statistical and clustering methods. Case studies (e.g., "Bird to Hitler") highlight the unique dynamics of surprise and curiosity metrics alongside semantic scores.
 
-- Users pay more attention to hyperlinks during navigation than to plain text.
-- Attention increases when hyperlinks are more relevant to the target.
-- Attention decays as reading progresses down the page, correlating with increasing reading sparsity.
+## Key Findings
 
-Based on these observations, we weighted the emotion annotations from the pretrained model accordingly.
-
-### Analyze Semantic Distance and Emotion Scores for Correlation
-
-We performed an initial test to verify some degree of correlation between semantic distance and emotion scores. In the next phase, we will explore deeper relationships, such as correlation, causality, or induction, between each type of emotion and textual semantic change. Our final aim is to determine if certain semantic jumps (over α% distance change) induce specific types of emotions.
-
+- **Semantic Distance**: Longer paths reveal greater variability in semantic transitions, emphasizing exploratory navigation.
+- **Emotional Variability**: Shorter paths exhibit higher emotional fluctuation, while longer paths show steadier emotional engagement.
+- **Surprise and Curiosity**: Distinct behaviors emerge, with surprise linked to abrupt transitions and curiosity tied to smoother exploration.
+For details, see the visualization and mapping in our Data Story linked above.
 
 ## Organization within the Team
 

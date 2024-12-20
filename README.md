@@ -64,12 +64,9 @@ We performed an initial test to verify some degree of correlation between semant
 - **Week 8**: Finalize correlation analysis and prepare findings for milestone 2.
 
 
-## Questions for TAs
-Would it be appropriate to use additional emotional models to validate the findings, or should we stick with one benchmarked model to maintain consistency?
-
 
 ## Important Download this and unzip it to replace "data" folder
-https://drive.google.com/file/d/1yPs-of3ya39vxxoNtSTrrxHPKYBDlmfY/view?usp=drive_link
+https://drive.google.com/file/d/1zSDj7c8xEAkieHe9v-eccjGk-43NmfTw/view?usp=sharing
 
 ## Quickstart
 

@@ -260,11 +260,9 @@ def calculate_emotion_jump_rates(emotion_df, emotion_name, output_path, alpha1=0
 
         # Append results for this path
         jump_data.append({
-            'path_index': path_index,
-            'small_jumps': small_jumps,
-            'medium_jumps': medium_jumps,
-            'large_jumps': large_jumps,
-            'total_jumps': total_jumps
+            'small_jumps_rate': round(small_jumps / total_jumps, 2),
+            'medium_jumps_rate': round(medium_jumps/total_jumps, 2),
+            'large_jumps_rate': round(large_jumps/total_jumps, 2),
         })
 
     jump_df = pd.DataFrame(jump_data)

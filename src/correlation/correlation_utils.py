@@ -48,7 +48,7 @@ def mean_correlation(df, name=None):
     handling values at the boundary of [-1, 1]. Includes a print statement for debugging.
     """
     # Extract the 'correlation' column
-    correlations = df['correlation']
+    correlations = df[name]
     
     # Clip values slightly to avoid domain issues with np.arctanh
     correlations = correlations.clip(-0.9999, 0.9999)
@@ -67,3 +67,89 @@ def mean_correlation(df, name=None):
         print(f"{name} Mean correlation: {mean_corr}")
     
 
+def process_and_merge_data(paths_file, output_file,
+                           mpnet_surprise_correlation_df,
+                           mpnet_curiosity_correlation_df,
+                           paper_surprise_correlation_df,
+                           paper_curiosity_correlation_df,
+                           surprise_jump_df, curiosity_jump_df, if_save=True):
+    """
+    Process the paths_finished dataset, calculate path lengths, and merge with other correlation data.
+    """
+    # Load and process paths data
+    df = pd.read_csv(paths_file, sep='\t', header=None, 
+                     names=['hashedIpAddress', 'timestamp', 'durationInSec', 'path', 'rating'])
+    df = df.dropna(subset=['path'])
+    df['path_length'] = df['path'].apply(lambda x: len(x.split(';')))
+    df = df[['path', 'path_length']].reset_index(drop=True)
+
+    # Merge with correlation data
+    merged_df = pd.concat(
+        [df, mpnet_surprise_correlation_df, mpnet_curiosity_correlation_df, 
+         paper_surprise_correlation_df, paper_curiosity_correlation_df, 
+         surprise_jump_df, curiosity_jump_df],
+        axis=1,
+    )
+
+    # Rename columns for clarity
+    merged_df.columns = [
+        'path', 'path_length', 
+        'mpnet_surprise_corr', 'mpnet_curiosity_corr', 
+        'paper_surprise_corr', 'paper_curiosity_corr', 
+        'surprise_small_jumps_rate', 'surprise_medium_jumps_rate', 'surprise_large_jumps_rate', 
+        'curiosity_small_jumps_rate', 'curiosity_medium_jumps_rate', 'curiosity_large_jumps_rate'
+    ]
+
+    # Save to CSV
+    if not if_save:
+        merged_df.to_csv(output_file, index=False)
+
+    merged_df.head(5)
+    # Return the head of the DataFrame for quick inspection
+    return merged_df
+
+
+
+def analyze_and_filter_correlations(merged_df, if_save=True):
+    # Define a helper function to calculate percentage and filter rows
+    def calculate_percentage_and_filter(df, conditions):
+        filtered_df = df[np.logical_and.reduce(conditions)]
+        percentage = (len(filtered_df) / len(df)) * 100
+        return filtered_df, percentage
+
+    # Define the conditions for each correlation type
+    surprise_conditions = [
+        np.abs(merged_df['mpnet_surprise_corr']) > 0.7,
+        np.abs(merged_df['paper_surprise_corr']) > 0.7
+    ]
+
+    curiosity_conditions = [
+        np.abs(merged_df['mpnet_curiosity_corr']) > 0.7,
+        np.abs(merged_df['paper_curiosity_corr']) > 0.7
+    ]
+
+    combined_conditions = surprise_conditions + curiosity_conditions
+
+    # Analyze surprise correlations
+    surprise_high_corr_df, surprise_percentage = calculate_percentage_and_filter(merged_df, surprise_conditions)
+    print(f"Percentage of rows where surprise conditions are met: {surprise_percentage:.2f}%")
+
+    # Analyze curiosity correlations
+    curiosity_high_corr_df, curiosity_percentage = calculate_percentage_and_filter(merged_df, curiosity_conditions)
+    print(f"Percentage of rows where curiosity conditions are met: {curiosity_percentage:.2f}%")
+
+    # Analyze combined correlations
+    surprise_curiosity_high_corr_df, combined_percentage = calculate_percentage_and_filter(merged_df, combined_conditions)
+    print(f"Percentage of rows where combined conditions are met: {combined_percentage:.2f}%")
+
+    # Filter rows with path length of 5 from the combined dataframe
+    selected_path_lengths_df = surprise_curiosity_high_corr_df[
+        surprise_curiosity_high_corr_df['path_length'].isin([5])
+    ]
+
+    # Save the filtered DataFrame to a CSV file
+    if not if_save:
+      selected_path_lengths_df.to_csv('data/correlation/selected_path_lengths_df.csv', index=False)
+    print(selected_path_lengths_df.head(3))
+
+    return 

@@ -175,3 +175,5 @@ data/original_dataset/*
 data/semantic/*
 !data/semantic/.gitkeep
 
+data/correlation/*
+!data/correlation/.gitkeep

@@ -143,7 +143,7 @@ def analyze_semantic_distances(mpnet_embedding, file_path):
     # Visualization
     unique_lengths = sorted(sampled_paths['length'].unique())
 
-    plt.figure(figsize=(15, 30))
+    plt.figure(figsize=(15, 45))
 
     plot_idx = 1
     for length in unique_lengths:

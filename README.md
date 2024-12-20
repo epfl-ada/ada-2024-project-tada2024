@@ -1,11 +1,11 @@
 # Emotion-Semantic Mapping through Wikipedia Article Transitions (M3 updated)
 
 ## Team Contribution (M3 updated)
-- Ruyin Feng (Traditional Semantic Distance)
-- Nastaran Hashemi (Paper Semantic Distance)
-- Nathanael Lambert (Paper Semantic Distance)
-- Weilun Xu (Emotion Distance, Data Story)
-- Haotian Fang (Correlation, Data Story)
+- Ruyin Feng: Traditional Semantic Distance — exploring different embeddings, distance metrics, and clustering methods.
+- Nastaran Hashemi: Paper Semantic Distance — evaluation method for semantic distance based on academic papers.
+- Nathanael Lambert: Paper Semantic Distance — implementation of semantic distance methods derived from academic papers.
+- Weilun Xu: Emotion Distance — definition and implementation; Data Story — content development.
+- Haotian Fang: Correlation — analysis of the correlation between emotion and semantic distance; Data Story — frontend development.
 
 
 ## Abstract
@@ -36,7 +36,6 @@ We applied clustering to select the optimal semantic distance measure for this a
 
 | Distance measure       | Corresponding clustering method |
 |------------------------|---------------------------------|
-| Euclidean Distance     | K-Means                         |
 | Manhattan Distance     | K-Medoids                       |
 | Cosine Distance        | K-Medoids                       |
 
@@ -110,6 +109,7 @@ ADA-2024-PROJECT-TADA2024/
 │   │   ├── emotion_utils.py  → Utility functions for emotion-related analysis
 │   │   └── emotion_visualization.py  → Code for visualizing emotion-related results
 │   └── semantic/
+│       ├── semantic_paper_preprocessing.py  → Function for embedding (not calling for results.ipynb)
 │       ├── semantic_paper_utils.py  → Utility functions for semantic analysis related to papers
 │       ├── semantic_paper_visualization.py  → Visualization code for semantic paper analysis
 │       ├── semantic_utils.py  → Utility functions for semantic analysis

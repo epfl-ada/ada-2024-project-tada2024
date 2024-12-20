@@ -59,7 +59,7 @@ We performed an initial test to verify some degree of correlation between semant
 
 ## Organization within the Team
 
-### Internal milestones:
+### Internal milestones: (M3 Updated)
 
 - **Week 3**: Complete data preprocessing and embedding generation.
 - **Week 4**: Finish clustering evaluation and choose semantic distance measure.
@@ -90,9 +90,9 @@ conda activate <env_name>
 pip install -r pip_requirements.txt
 ```
 
-## Project Structure
+## Project Structure (M3 Updated)
 
-The directory structure of the project ():
+The directory structure of the project:
 
 ```
 ADA-2024-PROJECT-TADA2024/

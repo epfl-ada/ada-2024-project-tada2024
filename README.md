@@ -1,4 +1,12 @@
-# Sentiment Analysis through User Navigation Paths (Wikispeedia)
+# Emotion-Semantic Mapping through Wikipedia Article Transitions (M3 updated)
+
+## Team Contribution (M3 updated)
+- Ruyin Feng (Traditional Semantic Distance)
+- Nastaran Hashemi (Paper Semantic Distance)
+- Nathanael Lambert (Paper Semantic Distance)
+- Weilun Xu (Emotion Distance, Data Story)
+- Haotian Fang (Correlation, Data Story)
+
 
 ## Abstract
 
@@ -20,7 +28,7 @@ The first step is to find an alternative approach to represent the semantic dist
 
 - MiniLM_L6_v2
 - mpnet_base_v2
-- roberta
+
 
 ### Determining the Most Suitable Semantic Distance
 
@@ -36,7 +44,7 @@ In addition to the methods mentioned in this table, we also performed Spectral C
 
 ### Define and Calculate Emotion Scores
 
-We used a benchmarked emotion prediction model to generate emotion scores, which output 26 types of emotion scores. Our approach considers human attention span and cognitive aspects of reading behavior:
+We used a benchmarked emotion prediction model to generate emotion scores, which output 28 types of emotion scores. Our approach considers human attention span and cognitive aspects of reading behavior:
 
 - Users pay more attention to hyperlinks during navigation than to plain text.
 - Attention increases when hyperlinks are more relevant to the target.
@@ -48,11 +56,6 @@ Based on these observations, we weighted the emotion annotations from the pretra
 
 We performed an initial test to verify some degree of correlation between semantic distance and emotion scores. In the next phase, we will explore deeper relationships, such as correlation, causality, or induction, between each type of emotion and textual semantic change. Our final aim is to determine if certain semantic jumps (over α% distance change) induce specific types of emotions.
 
-## Proposed Timeline
-
-- **Milestone P1 (Week 10-11)**: Calculate more emotion scores, implement weighted attention scoring, and explore the impact of backtracking. Visualize initial findings on semantic distances and emotional responses.
-- **Milestone P2 (Week 11-12)**: Perform correlation analysis, identify specific emotions linked to large semantic jumps, and finalize the interpretation of results.
-- **Final Project (Week 13-14)**: Prepare the final report, and document all code.
 
 ## Organization within the Team
 
@@ -62,7 +65,11 @@ We performed an initial test to verify some degree of correlation between semant
 - **Week 4**: Finish clustering evaluation and choose semantic distance measure.
 - **Week 6**: Complete weighted emotion calculations and backtracking analysis.
 - **Week 8**: Finalize correlation analysis and prepare findings for milestone 2.
-
+- **Week 10**: Implement semantic distance in the paper and improve clustering evaluation.
+- **Week 11**: Finish correlating emotion and semantics.
+- **Week 12**: Conduct case study.
+- **Week 13**: Draft the first version of the data story.
+- **Week 14**: Finalize the data story, results, and GitHub documentation.
 
 
 ## Important Download this and unzip it to replace "data" folder
@@ -83,65 +90,35 @@ conda activate <env_name>
 pip install -r pip_requirements.txt
 ```
 
-### How to use the project
-
-#### Semantic Scripts
-
-Each notebook, starts with a configuration cell to define dataset directory, output directory and whether or not to download the dataset.
-
-##### Plaintext cleaning (clean_articels.py)
-
-This script uses the HTML files of each article to extract their plaintext and save it as a .txt file.
-Specify `--download` if the dataset has never been downloaded.
-
-```bash
-python ./src/semantic/clean_articles.py --download 
-```
-
-##### Generate Embeddings (generate_embeddings.py)
-
-In this script, given a predefined model, all plaintext articles are embedded and stored in a dictionary. Finally, the dictionary is saved locally as a .pkl file.
-
-```bash
-python ./src/semantic/generate_embeddings.py --model_name "all_mpnet_base_v2" 
-```
-
-
-
-##### Perform Clustering (perform_clustering.py)
-
-In this script, given the embedding results, the clusterings are calculated and saved locally as a .pkl file.
-
-```bash
-python ./src/semantic/perform_clustering.py --embedding_model_name "all_mpnet_base_v2" 
-```
-
-
 ## Project Structure
 
 The directory structure of the project ():
 
 ```
 ADA-2024-PROJECT-TADA2024/
-├── data/ (only important files of data are shown below)
-│   ├── emotion/ 			
-│   ├── original_dataset/			->
-│   └── semantic/			->
+├── data/  → the following subfolders are empty, please find the google drive link below to replace the whole data folder
+│   ├── correlation/  → Folder containing correlation-related data files
+│   ├── emotion/  → Folder containing emotion-related data files
+│   ├── original_dataset/  → Folder containing the original dataset
+│   └── semantic/  → Folder containing semantic-related data files
 ├── src/
 │   ├── correlation/
-│   │   └── correlation_utils.py			->
+│   │   ├── correlation_utils.py  → Utility functions for calculating correlations
+│   │   └── correlation_visualization.py  → Code for visualizing correlation results
 │   ├── emotion/
-│   │   ├── emotion_scores.py
-│   │   ├── emotion_utils.py
-│   │   └── emotion_visualization.py
+│   │   ├── emotion_scores.py  → Script for scoring emotions based on the dataset
+│   │   ├── emotion_utils.py  → Utility functions for emotion-related analysis
+│   │   └── emotion_visualization.py  → Code for visualizing emotion-related results
 │   └── semantic/
-│       ├── semantic_paper_utils.py
-│       ├── semantic_paper_visualization.py
-│       ├── semantic_utils.py
-│       └── semantic_visualization.py
-├── .gitignore
-├── pip_requirements.txt
-├── README.md
-└── results.ipynb
+│       ├── semantic_paper_utils.py  → Utility functions for semantic analysis related to papers
+│       ├── semantic_paper_visualization.py  → Visualization code for semantic paper analysis
+│       ├── semantic_utils.py  → Utility functions for semantic analysis
+│       └── semantic_visualization.py  → Code for visualizing semantic analysis results
+├── .gitignore  → Specifies which files/folders Git should ignore
+├── pip_requirements.txt  → List of Python packages required for the project
+├── README.md  → Documentation for the project
+└── results.ipynb  → Jupyter notebook for presenting and analyzing results
+
+
 
 ```

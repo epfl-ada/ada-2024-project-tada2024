@@ -165,7 +165,12 @@ cython_debug/
 # data/wikispeedia/
 
 .DS_Store
-data/emotion/*
-data/original_dataset/*
-data/semantic/*
+# Ignore everything in the data folder
+data/**
+
+# Allow folders in the data directory
+!data/
+
+# Allow subfolders but not their contents
+!data/*/
 

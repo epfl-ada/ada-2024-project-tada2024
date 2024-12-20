@@ -3,12 +3,12 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy.spatial.distance import cosine
-
+from scipy.spatial import ConvexHull
 
 def plot_clustering_distribution(mpnet_values, mpnet_clustering, mpnet_mapping, d1, d2):
     """
-    Generate a scatter plot for clustering distribution based on two embedding dimensions.
-
+    Generate a scatter plot for clustering distribution based on two embedding dimensions,
+    with convex hulls representing cluster boundaries.
     """
     # Extract the specified dimensions
     mpnet_values_array = np.array(mpnet_values)[:, [d1, d2]]
@@ -20,7 +20,7 @@ def plot_clustering_distribution(mpnet_values, mpnet_clustering, mpnet_mapping, 
     # Add descriptive labels to clustering
     mpnet_df['clustering'] = mpnet_df['clustering'].apply(lambda x: f"{x}-{mpnet_mapping['K-Medoids_Cosine'][x]}")
 
-    # Plot the scatter plot
+    # Prepare the scatter plot
     plt.figure(figsize=(15, 10))
     scatter = sns.scatterplot(
         x='d1',
@@ -33,20 +33,33 @@ def plot_clustering_distribution(mpnet_values, mpnet_clustering, mpnet_mapping, 
         edgecolor=None
     )
 
-    # Add titles and axis labels
-    plt.title('Clustering Distribution Based on d1 and d2', fontsize=14)
+    # Function to draw convex hulls for each cluster
+    def plot_convex_hull(points, color):
+        if len(points) < 3:
+            return  # A convex hull cannot be formed with fewer than 3 points
+        hull = ConvexHull(points)
+        for simplex in hull.simplices:
+            plt.plot(points[simplex, 0], points[simplex, 1], color=color, alpha=0.7)
+
+    # Draw convex hulls for each cluster
+    unique_clusters = mpnet_df['clustering'].unique()
+    palette = sns.color_palette('tab20', len(unique_clusters))
+
+    for i, cluster in enumerate(unique_clusters):
+        cluster_points = mpnet_df[mpnet_df['clustering'] == cluster][['d1', 'd2']].values
+        plot_convex_hull(cluster_points, palette[i])
+
+    # Add titles and labels
+    plt.title('Clustering Distribution with Boundaries', fontsize=14)
     plt.xlabel('d1', fontsize=12)
     plt.ylabel('d2', fontsize=12)
 
-    # Adjust the legend position for better visibility
+    # Adjust legend and layout
     plt.legend(title='Clustering', bbox_to_anchor=(1.05, 1), loc='upper left')
-
-    # Optimize layout to prevent overlap
     plt.tight_layout()
 
     # Display the plot
     plt.show()
-
 
 
 

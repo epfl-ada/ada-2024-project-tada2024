@@ -153,3 +153,23 @@ def analyze_and_filter_correlations(merged_df, if_save=True):
     print(selected_path_lengths_df.head(3))
 
     return 
+
+
+
+def filter_and_save_csv(file_path, rows_to_select, output_path, if_save=True):
+    """
+    Filters specific rows from a CSV file and saves the result to a new file.
+    """
+    # Read the CSV file
+    df = pd.read_csv(file_path, index_col=0)
+
+    # Select specific rows
+    filtered_df = df.loc[rows_to_select]
+
+    # Save the filtered DataFrame to a new CSV file
+    if not if_save:
+        filtered_df.to_csv(output_path, index=True)
+
+    # Return the filtered DataFrame for further use if needed
+    return filtered_df
+

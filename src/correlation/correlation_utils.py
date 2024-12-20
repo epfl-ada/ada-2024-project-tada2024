@@ -149,7 +149,7 @@ def analyze_and_filter_correlations(merged_df, if_save=True):
 
     # Save the filtered DataFrame to a CSV file
     if not if_save:
-      selected_path_lengths_df.to_csv('data/correlation/selected_path_lengths_df.csv', index=False)
+      selected_path_lengths_df.to_csv('data/correlation/selected_path_lengths_df.csv', index=True)
     print(selected_path_lengths_df.head(3))
 
     return 

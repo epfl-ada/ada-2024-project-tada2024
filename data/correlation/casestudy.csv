@@ -1,6 +1,5 @@
-path,path_length,mpnet_surprise_corr,mpnet_curiosity_corr,paper_surprise_corr,paper_curiosity_corr,surprise_small_jumps_rate,surprise_medium_jumps_rate,surprise_large_jumps_rate,curiosity_small_jumps_rate,curiosity_medium_jumps_rate,curiosity_large_jumps_rate
-Bird;19th_century;Germany;World_War_II;Adolf_Hitler,5,-0.7142153272249984,0.872777298979866,-0.8846882800312558,0.7699300897019444,0.0,0.67,0.33,0.0,0.67,0.33
-Bird;People%27s_Republic_of_China;Russia;Nazi_Germany;Adolf_Hitler,5,0.9055173692609596,0.903212301186845,0.721091041743342,0.8728884966196047,0.0,1.0,0.0,0.0,1.0,0.0
-Bird;Latin;United_States;World_War_II;Adolf_Hitler,5,-0.8292897291575816,0.81028782858244,-0.7295583149797527,0.8171656625415283,0.0,0.67,0.33,0.0,1.0,0.0
-Bird;People%27s_Republic_of_China;Russia;Nazi_Germany;Adolf_Hitler,5,0.9055173692609596,0.903212301186845,0.721091041743342,0.8728884966196047,0.0,1.0,0.0,0.0,1.0,0.0
-Bird;People%27s_Republic_of_China;Socialism;Nazism;Adolf_Hitler,5,0.8280687822470315,0.7626116806008407,0.7588245607693543,0.7688080398087717,0.67,0.33,0.0,0.0,0.67,0.33
+,path,path_length,mpnet_surprise_corr,mpnet_curiosity_corr,paper_surprise_corr,paper_curiosity_corr,surprise_small_jumps_rate,surprise_medium_jumps_rate,surprise_large_jumps_rate,curiosity_small_jumps_rate,curiosity_medium_jumps_rate,curiosity_large_jumps_rate
+2136,Bird;19th_century;Germany;World_War_II;Adolf_Hitler,5,-0.7142153272249984,0.872777298979866,-0.8846882800312558,0.7699300897019444,0.0,0.67,0.33,0.0,0.67,0.33
+2140,Bird;People%27s_Republic_of_China;Russia;Nazi_Germany;Adolf_Hitler,5,0.9055173692609596,0.903212301186845,0.721091041743342,0.8728884966196047,0.0,1.0,0.0,0.0,1.0,0.0
+2173,Bird;Latin;United_States;World_War_II;Adolf_Hitler,5,-0.8292897291575816,0.81028782858244,-0.7295583149797527,0.8171656625415283,0.0,0.67,0.33,0.0,1.0,0.0
+2212,Bird;People%27s_Republic_of_China;Socialism;Nazism;Adolf_Hitler,5,0.8280687822470315,0.7626116806008407,0.7588245607693543,0.7688080398087717,0.67,0.33,0.0,0.0,0.67,0.33
